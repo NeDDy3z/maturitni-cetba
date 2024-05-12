@@ -73,6 +73,7 @@
 		- *Občanský průkaz* (sbírka povídek)
 	- Michal Viewegh
 		- *Báječná léta pod psa* (román)
+
 ## Petr Šabach
 - **1951 - 2017**
 - psal humoristické romány a povídky
@@ -103,11 +104,13 @@
 	- *Občanský průkaz*
 		- normalizace, 70. a 80. léta
 		- zfilmováno ve stejnojmeném filmu
+
 ## Občanský průkaz (2006)
 - literární druh: **epika**
 - literární žánr: **novela**
 - literární směr/sloh: **současná česká literatura**
-### Stylistická a jazyková charakteristika
+
+#### Stylistická a jazyková charakteristika
 - kniha se skládá z kapitol, nejsou pojmenované, jsou odděleny třemi hvězdičkami
 - není souvislá dějová linie
 - vyskytují se intermezza, jsou postřehy navazující na příběhy, charakterizují dobu
@@ -117,12 +120,14 @@
 - současný jazyk
 - ustálená slovní spojení, nářečí, řečnické otázky, spisovný i nespisovný jazyk, hovorové výrazy, vulgární výrazy, knižní výrazy, odborné výrazy, cizí a přejaté výrazy, nadsázky (hyperboly)
 - ironie, sarkasmus, humor
-### Téma díla
+
+#### Téma díla
 - život v komunistickém režimu, podáván s nadsázkou
 - dospívání po roce 1968, dopad režimu na dospělé
 - revolta mladých lidí
 - teror od VB, udavačství, emigrace
-### Postavy
+
+#### Postavy
 - **Petr**
 	- vypravěč, hlavní postava
 	- formou vzpomínek nás seznamuje se svým mládím
@@ -166,7 +171,8 @@
 - **Pavel Hora**
 	- nejdříve rodinný přítel, později se ukáže že je udavač
 	- z přáítelství se stává nenávist
-### Stručný děj díla
+
+#### Stručný děj díla
 - skupina patnáctiletých kluků poprvé dostanou své občanské průkazy, které musí nosit u sebe, jinak se dostanou do problémů s policií
 - hned při předávání se rozhodnou, že při potřesení ruky strážníka mu rozhodí klouby, začínají se dostávat do problémů
 - všichni si vytrhnou stránku 13 na protest proti KSČ

@@ -1,3 +1,4 @@
+
 ## Meziválečná literatura 
 - neklidné příměří v Evropě
 - světová hospodářská krize (1929)
@@ -31,6 +32,7 @@
 			- *Mistr a Markétka* (román)
 		- Thomas Mann
 			- *Smrt v Benátkách* (novela)
+
 ## Antoine de Saint-Exupéry
 - **1900 - 1944**
 - francouzský spisovatel, reportér, letec
@@ -44,26 +46,31 @@
 		- autobiografické jevy
 	- *Citadela*
 		- meditativní román, nedokončený
+
 ## Malý princ (1943)
 - literární druh: **epika**
 - literární žánr: **filozofická pohádka**
 - literární směr/sloh: **meziválečná mediativní a filozofická próza**
-### Stylistická a jazyková charakteristika
+
+#### Stylistická a jazyková charakteristika
 - fiktivní autobiografie
 - spisovný, na dobu aktuální jazyk
 - expresivní výrazy (zdrobněliny)
 - přirovnání, metafory, personifikace
-### Téma díla
+
+#### Téma díla
 - střet světa dětí a dospělých
 - přátelství, vztahy, zodpovědnost, nevinnost dětí
 - poukázání na nesmyslnost chování a cílů dospělých
-### Časové a prostorové umístění
+
+#### Časové a prostorové umístění
 - odehrává se během osmi dní, doba není určena
 	- pravděpodobně někdy v 19. století
 - na různých planetkách, ve vesmíru
 	- na planetě malého prince B612
 	- na Zemi
-### Postavy
+
+#### Postavy
 - **Malý princ**
 	- hlavní postava
 	- dětský, zvědavý, ptá se na otázky, nevinný, citlivý
@@ -95,7 +102,8 @@
 	- pije, aby zapomněl, že pije
 - **Byznysman**
 	- počítá hvězdy, myslí si, že jsou jeho
-### Stručný děj díla
+
+#### Stručný děj díla
 - Pilotovo letadlo má poruchu, musí nouzově přistát v poušti
 - Setkává se s Malým princem
 - Princ chce, aby mu pilot nakreslil beránka. Pilot mu nakreslí bedničku a princ je šťastný, protože si představuje, že je beránek uvnitř

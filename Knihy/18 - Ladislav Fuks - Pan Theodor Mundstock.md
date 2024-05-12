@@ -73,6 +73,7 @@
 		- *Občanský průkaz* (sbírka povídek)
 	- Michal Viewegh
 		- *Báječná léta pod psa* (román)
+
 ## Ladislav Fuks
 - **1923 - 1994**
 - narozen v Praze
@@ -85,22 +86,27 @@
 - v době normalizace (70. léta) se přizpůsobil, psal zejména historická díla na objednávku
 - **další dílo:**
 	- *Spalovač mrtvol* (novela)
+
 ## Pan Theodor Mundstock (1967)
 - literární druh: **epika**
 - literární žánr: **román**
 - literární směr/sloh: **druhá vlna válečné prózy**
-### Stylistická a jazyková charakteristika
+
+#### Stylistická a jazyková charakteristika
 - spisovný, hovorový, neutrální jazyk
 - v díle se objevují německé výrazy
 - vypravěc v er-formě
 - v přítomném čase
-### Téma díla
+
+#### Téma díla
 - holokaust, příprava na koncentrační tábor
 - psychický nátlak na židy za druhé světové války
-### Časové a prostorové umístění
+
+#### Časové a prostorové umístění
 - v Praze
 - za druhé světové války
-### Postavy
+
+#### Postavy
 - **Theodor Mundstock**
 	- starý osamělý Žid
 	- schizofrenní, válkou psychicky narušený
@@ -115,7 +121,8 @@
 - **Šimon**
 	- syn z rodiny Šternů
 	- s panem Mundstockem má odjet do koncentračního tábora
-### Stručný děj díla
+
+#### Stručný děj díla
 - pan Mundstock žije za druhé světové války v bytě s kropenatou slepičkou (která je ve skutečnosti holub)
 - čeká a obává se přivolání do koncentračního tábora
 - v mysli má své druhé já, vlastní stín, kterému říká Mon a komunikuje s ním 

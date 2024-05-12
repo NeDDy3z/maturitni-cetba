@@ -69,6 +69,7 @@
 		- Alexandr Solženicin
 			- *Souostroví Gulag* (román)
 			- *Jeden den Ivana Děnisoviče* (novela)
+
 ## George Orwell
 - **1903 - 1950**
 - vlastním jménem **Eric Arthur Blair**
@@ -82,24 +83,29 @@
 	- romány
 		- *1984*
 		- *Na dně v Paříži  a Londýně*
+
 ## Farma zvířat (1945)
 - literární druh: **epika**
 - literární žánr: **román, alegorická bajka**
 - literární směr/sloh: **antiutopie**
-### Stylistická a jazyková charakteristika
+
+#### Stylistická a jazyková charakteristika
 - text je alegorický
 - spisovný
 - slova se socialistickým zabarvením (Liga mládeže, sportovní výbor)
 - odborné termíny, metafory, archaismy, personifikace
 - přímá i nepřímá řeč
 - vypravěcí a popisný slohový postup
-### Téma díla
+
+#### Téma díla
 - kritika totalitních režimů, SSSR pomocí alegorie
 - dobrá myšlenka je zničena po tom, co se skupina dostane k moci
-### Časové a prostorové umístění
+
+#### Časové a prostorové umístění
 - v 50. letech 20. století
 - v Anglii na venkově, na farmě pana Jonese
-### Postavy
+
+#### Postavy
 - **pan Jones**
 	- alkoholik, majitel Panské farmy
 	- o zvířata se stará velice špatně
@@ -132,7 +138,8 @@
 - **lidé**
 	- znázorňují kapitalisty, vykořisťovatele
 - **slepice**
-### Stručný děj díla
+
+#### Stručný děj díla
 - děj se odehrává na farmě, kterou vlastní pan Jones, který je alkoholik a o zvířata se nestará dobře - trpí hladem a zimou
 - staré prase Major svolá všechna zvířata do stodoly, kde je před svou smrtí vyburcuje k revoluci
 - zvířata pana Jonese vyženou a přejmenují původní "Panskou farmu" na "Zvířecí farmu"
@@ -145,7 +152,8 @@
 - Napoleon vychová další prasata, společně začnou hrát karty, chodit po dvou
 - farmu přejmenují zpět na Panskou
 - jsou k nerozeznání od lidí
-### Doplňující informace
+
+#### Doplňující informace
 - **7 přikázání:**
 	1. Každý, kdo chodí po dvou nohách, je nepřítel
 	2. Každý, kdo chodí po čtyřech nohách nebo má křídla, je přítel

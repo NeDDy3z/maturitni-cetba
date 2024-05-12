@@ -1,3 +1,4 @@
+
 ## Meziválečná literatura 
 - neklidné příměří v Evropě
 - světová hospodářská krize (1929)
@@ -30,6 +31,7 @@
 			- *Mistr a Markétka* (román)
 		- Thomas Mann
 			- *Smrt v Benátkách* (novela)
+
 ## Ztracená generace
 - *lost generation*
 - skupina amerických spisovatelů jedné generace
@@ -47,6 +49,7 @@
 	- Erich Maria Remarque
 	- Francis Scott Fidzgerald
 	- John Steinbeck
+
 ## Ernest Hemingway
 - **1899 - 1961**
 - jeden z nejvýznamnějších amerických prozaiků
@@ -73,6 +76,7 @@
 		- *Sbohem, armádo*
 		- *Komu zvoní hrana*
 		- *Zelené pahorky africké*
+
 ## Stařec a moře (1952)
 - literární druh: **epika**
 - literární žánr: **novela**
@@ -80,7 +84,8 @@
 	- jeden jednoduchý příběh
 	- typický nečekaný zvrat na konci
 - literární směr/sloh: **světová literatura 1. poloviny 20. století, ztracená generace**
-### Stylistická a jazyková charakteristika
+
+#### Stylistická a jazyková charakteristika
 - vypravěč v er-formě, pouze konstatuje, nevysvětluje, nezaujatý
 - souvislý text členěný do odstavců
 - typické vnitřní monology
@@ -90,19 +95,22 @@
 	- př. *"Kde je, smrti, tvé vítězství?"*
 - nevlastní přímá řeč
 	- bez uvozovek, součástí textu
-### Téma díla
+
+#### Téma díla
 - nikdy nekončící zápas člověka s přírodou
 - souboj člověka sám se sebou
 - souboj starého člověka s životní smůlou
 - souboj stařce s rybou
 - nezdolnost člověka, vůle kterou překoná tělesnou slabost
 - poukázání na obrovskou lidskou statečnost a duševní sílu
-### Časové a prostorové umístění
+
+#### Časové a prostorové umístění
 - kubánské pobřeží poblíž Havany
 - chatrč starce
 - loďka na moři
 - 40. léta 20. století
-### Postavy
+
+#### Postavy
 - **Santiago (stařec)**
 	- odvážný kubánský rybář
 	- bojuje na pokraj života
@@ -114,7 +122,8 @@
 	- obětavý, laskavý, nápomocný
 	- má starce rád, obdivuje ho
 	- jezdí s ním rybařit
-### Stručný děj díla
+
+#### Stručný děj díla
 - stařec Santiago už 84 dní neulovil žádnou rybu
 - po 80 dnech s ním přestane jezdit chlapec Manolin
 - Santiago se rozhodne vyjet na vodu a dokázat, že dokáže stále rybu ulovit

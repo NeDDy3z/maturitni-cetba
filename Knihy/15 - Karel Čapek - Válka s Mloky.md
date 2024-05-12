@@ -41,8 +41,10 @@
 		- řadíme sem i Ivana Olbrachta
 		- Marie Pujmanová
 		- Marie Majenová
+
 ## Demokratický proud
 - zejména demokratiční novináři, původně povoláním
+
 ## Karel Čapek
 - **1890 - 1938**
 - narodil se v Malých Svatoňovicích, zemřel v Praze na zápal plic
@@ -94,23 +96,28 @@
 		- *Válka s Mloky* (román)
 		- *Bílá nemoc* (drama)
 		- *Matka* (drama)
+
 ## Válka s Mloky (1936)
 - literární druh: **epika**
 - literární žánr: **dystopický román**
 - literární směr/sloh: **antiutopie**
-### Stylistická a jazyková charakteristika
+
+#### Stylistická a jazyková charakteristika
 - dílo je rozdělené na tři části (knihy)
 - dílo je alegorické
 - velká slovní zásoba, rozvinuté věty
 - využití novinových výstřižků, odborné texty, výpisy ze zasedání, popisy událostí souvisejících s Mloky
 - epická část pouze v první knize, málo dialogů, většinu textu tvoří popis
-### Téma díla
+
+#### Téma díla
 - alegorické dílo o šíření rasy prehistorických Mloků, které lidi nejdříve využívají, ale potom s nimi vedou válku
 - dílo je alegorické pro šíření nacismu
-### Časové a prostorové umístění
+
+#### Časové a prostorové umístění
 - z počátku ostrůvky Tichého oceánu, postupně celý svět
 - odehrává se v obrazu meziválečné doby
-### Postavy
+
+#### Postavy
 - **Kapitán Van Toch**
 	- podnikavý a chamtivý kapitán obchodní lodi, objevuje mloky v Tichomoří
 - **G. H. Bondy**
@@ -119,7 +126,8 @@
 	- vůdce Mloků
 - **Mloci**
 	- nepotřebují radost ze života, přátelství nebo lásku, pouze pracují pro svoji společnost (Čapek naráží na podobnost s obyvateli Německa)
-### Stručný děj díla
+
+#### Stručný děj díla
 1. kniha: *Andrias Scheuchzeri*
 	- epická dějová část
 	- objevení mloků kapitánem Van Tochem

@@ -41,8 +41,10 @@
 		- řadíme sem i Ivana Olbrachta
 		- Marie Pujmanová
 		- Marie Majenová
+
 ## Demokratický proud
 - zejména demokratiční novináři, původně povoláním
+
 ## Karel Čapek
 - **1890 - 1938**
 - narodil se v Malých Svatoňovicích, zemřel v Praze na zápal plic
@@ -94,11 +96,13 @@
 		- *Válka s Mloky* (román)
 		- *Bílá nemoc* (drama)
 		- *Matka* (drama)
+
 ## R.U.R./Rossum's Universal Robots (1920)
 - literární druh: **drama**
 - literární žánr: **dystopická, vědecko-fantastická tragédie**
 - literární směr/sloh: **sci-fi, dystopie**
-### Stylistická a jazyková charakteristika
+
+#### Stylistická a jazyková charakteristika
 - chronologická kompozice; předehra a tři dějství
 	**- předehra:** poměrně dlouhá, uvádí diváka do děje
 	**1. dějství:** o deset let později, v salonu na Rossumově ostrově, postavy si uvědomují negativní dopad robotů
@@ -115,16 +119,19 @@
 - **utopie:**
 	- fiktivní společnost, která je ideální a dokonalá ve všech aspektech
 	- ukazuje ráj
-### Téma díla
+
+#### Téma díla
 - strach o osud lidí
 - hrozba nadvlády umělé inteligence
 - následky sestrojení robotů
 - varování před následky techniky
 - kritika touhy zbohatnout a zpohodlnět
-### Časové a prostorové umístění
+
+#### Časové a prostorové umístění
 - doba děje není známá
 - Rossumův ostrov, budova továrny
-### Postavy
+
+#### Postavy
 - **Harry Domin**
 	- ředitel R.U.R., má cíl ulehčit lidem práci, ctižádostivý a sebevědomý
 - **Helena Gloryová**
@@ -143,7 +150,8 @@
 	- generální technický ředitel
 - **Nána**
 	- chůva Heleny, nevěří v pokrok a věří v boha
-### Stručný děj díla
+
+#### Stručný děj díla
 - **předehra**
 	- v budoucnosti na Rossumově ostrově, vynaleznou a začnout vyrábět roboty
 	- roboti jsou lidmi využíváni jako levná a efektivní pracovní síla

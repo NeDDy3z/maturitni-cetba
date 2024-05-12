@@ -24,6 +24,7 @@
 		- *Splav* (básnická sbírka)
 		- *Stříbrný vítr* (román)
 		- *Měsíc nad řekou* (drama)
+
 ## Viktor Dyk
 - **1877 - 1931**
 - český básník, prozaik, dramatik, novinář, politik
@@ -42,26 +43,31 @@
 	- drama
 		- *Milá sedmi loupežníků*
 		- *Zmoudření dona Quijota*
+
 ## Krysař (1915)
 - literární druh: **epika**
 - literární žánr: **novela**
 - literární směr/sloh: **neoklasicismus, neoromantismus**
-### Stylistická a jazyková charakteristika
+
+#### Stylistická a jazyková charakteristika
 - spisovný jazyk
 - vypravěč v er-formě
 - vnitřní monology, přímá řeč
 - skladba věty nenapodobuje hovorový jazyk
 - opakování věci pro jejich zdůraznění
 - některé kapitoly jsou velmi krátké
-### Téma díla
+
+#### Téma díla
 - vychází ze saské, staroněmecké pověsti
 - Krysař přijde do města Hameln aby ho zbavil krys, ale nakonec ho zbaví i obyvatel
 - kritka měšťanského života, povrchnosti měšťanů
 - píšťala je symbolem moci nad ostatními
-### Časové a prostorové umístění
+
+#### Časové a prostorové umístění
 - město Hameln, hora Koppel
 - doba není určena, nejspíš okolo 15. století
-### Postavy
+
+#### Postavy
 - **Krysař**
 	- tejmný cizinec, samotář
 	- ponurý, pesimistický, vzbuzuje v lidech strach
@@ -75,7 +81,8 @@
 - **Sepp Jorgen**
 	- osamělý rybář
 	- vše chápe až o den později
-### Stručný děj díla
+
+#### Stručný děj díla
 - Krysař přijíždí do města Hameln s cílem vyhnat krysy
 - potkává Agnes, navzájem se do sebe zamilují i přes vztah Agnes s dlouhým Kristiánem
 - Krysař z města vyžene krysy, ale nedostává slíbenou odměnu 100 rýnských

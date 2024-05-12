@@ -44,6 +44,7 @@
 			- *Pouť krkonošská* (báseň v próze)
 			- *Cikáni* (román)
 			- *Máj* (lyricko-epická básnická skladba)
+
 ## Edgar Allan Poe
 - **1809 - 1849**
 - američan
@@ -66,11 +67,13 @@
 - **spojení autoři**
 	- Arthur Conan Doyle
 	- H. P. Lovecraft
+
 ## Havran (1845)
 - literární druh: **lyricko-epická skladba**
 - literární žánr: **temná romantická poezie**
 - směr/sloh: **romantismus**
-### Stylistická a jazyková charakteristika
+
+#### Stylistická a jazyková charakteristika
 - **kompozice:**
 	- chronologická
 	- 18 slok
@@ -86,19 +89,23 @@
 - zvukomalebnost (*never more*)
 - psáno racionální metodou
 	- chtěl vzbudit ve čtenáři pocit depresi, gradace beznaděje
-### Téma díla
+
+#### Téma díla
 - beznaděj hrdiny (lyrického subjektu)
 - ztráta mrtvé lásky
 - propad do beznaděje
 - tajemno noční bouře
-### Časové a prostorové umístění
+
+#### Časové a prostorové umístění
 - v bytě lyrického subjektu
 - v noci za bouře
-### Postavy
+
+#### Postavy
 - **vypravěč/lyrický subjekt**
 - **Lenora**
 - **havran**
-### Stručný děj díla
+
+#### Stručný děj díla
 - mladému muži předčasně zemřela dívka Lenora
 - za jedné bouřlivé noci si zmýtaný horečkou čte staré magické knihy a myslí na ni
 - zdá se mu, že někdo klepe na dveře, jde otevřít, ale venku nikdo není
@@ -107,7 +114,8 @@
 - ptá se ho, zda se ještě někdy potká s Lenorou, Havran mu odpovídá *"už víckrát ne"* (*"never more"*)
 - muž se havrana snaží vyhnat z domu, ale havran neopouští své místo
 - muž pomalu upadá do úplného zoufalství
-### Doplňující informace
+
+#### Doplňující informace
 - dílo původně překládáno jako Krkavec
 - bylo úspěšné hned po vydání
 - dílo napsal ke konci života, dva roky před smrtí Virginie, byla již tři roky nemocná s tuberkulózou a Poe byl v depresích

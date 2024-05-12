@@ -33,6 +33,8 @@
 			- *Mistr a Markétka* (román)
 		- Thomas Mann
 			- *Smrt v Benátkách* (novela)
+
+
 ## Experimentální modernistická próza
 - základem tvorby je experiment
 - děj je upozadněn, není podstatný
@@ -41,6 +43,8 @@
 - konfrontace vnitřního a vnějšího světa
 - absurdita světa, života
 - osamocenost jedince, znejištění smyslu existence
+
+
 ## Franz Kafka
 - **1883 - 1924**
 - pražský německý žid, psal v němčině
@@ -66,24 +70,34 @@
 - **další pražští německy píšící autoři:**
 	- **Max Brod**
 	- **Gustav Meyrink**
+
+
 ## Proměna (1915)
 - literární druh: **epika**
 - literární žánr: **povídka**
 - literární směr/sloh: **existencialismus**
-### Stylistická a jazyková charakteristika
+
+
+#### Stylistická a jazyková charakteristika
 - vypravěč chladný, strohý, bez emocí
 - neosobní er-forma
 - nahlížení na postavy z vnější perspektivy
 - spisovný jazyk, neutrální slova, přechodníky
 - chronologická kompozice, rozděleno do tří kapitol
 - vulgarismy, hyperboly, eufemismy
-### Téma díla
+
+
+#### Téma díla
 - přeměna na brouka
 - vůle, beznaděj, odcizení, samota, psychické vyčerpání, smrt
-### Časové a prostorové umístění
+
+
+#### Časové a prostorové umístění
 - v bytě rodiny
 - v rozsahu jen pár dní
-### Postavy
+
+
+#### Postavy
 - **Řehoř Samsa**
 	- hlavní postava, obchodní cestující
 	- pečlivý, odpovědný, svědomitý, úzkostný
@@ -106,7 +120,9 @@
 	- vidí proměnu a odchází
 - **Pronajímatelé pokoje**
 	- tři muži, co si pronajmou pokoj v bytě rodiny
-### Stručný děj díla
+
+
+#### Stručný děj díla
 - Řehoř Samsa je obchodní cestující, puntičkářsky svědomitý a má malou sebedůvěru, stará se o svou rodinu
 - jednoho dne ráno se vzbudí a zjistí, že se přes noc proměnil na brouka
 - není z proměny vyděšený, má obavy, že nepřijde včas do práce
