@@ -1,0 +1,99 @@
+## Detektivní literatura
+- Agatha Christie se neřadí k žádnému uměleckému směru
+- celý život psala detektivní romány a dramata (20. století)
+- za zakladatele detektivní prózy se považuje Edgar Allan Poe se svým dílem *Vraždy v ulici Morgue*
+- **další autoři detektivní literatury:**
+	- Edgar Allan Poe
+		- *Vraždy v ulici Morgue* (povídka)
+	- Arthur Conan Doyle
+		- *Sherlock Holmes* (série knih)
+
+## Agatha Christie
+- **1890 - 1976**
+- vlastním jménem **Agatha Mary Clarissa lady Mallowanová**, rozená **Millerová**
+- občas používala pseudonym **Mary Westmacott**
+- spisovatelka extrémně populární a vlivné detektivní literatury
+- podle některých odhadů je nejprodávanějším spisovatelem všech dob (podle jiných je jim William Shakespeare)
+- ve svých dílech psala hlavně o dvou fitkivních detektivech
+	- **Hercule Poirot** (**P**)
+		- belgický soukromý detektiv
+		- okouzlující zdvořilý muž, které jeho okolí občas vnímá komicky
+		- Christie byla jeho postavou později frustrovaná a litovala, že ho strvořila
+	- **slečna Jane Marplová** (**M**)
+		- britská postarší neprovdaná soukromá detektivka
+		- lidé ji snadno podceňují, je inteligentní a moudrá
+		- Christie v ní nalezla spřízněnou duši
+- **dílo:**
+	- *Záhada ná zámku Styles* (**P**) (román)
+	- *Vražda v Orient Expressu* (**P**) (román)
+	- *Smrt na Nilu* (**P**) (román)
+	- *Opona: Poslední případ Hercula Poirota* (**P**) (román)
+	- *Vražda na faře* (**M**) (román)
+	- *Deset malých černoušků* (román)
+	- *Past na myši* (drama)
+
+## Deset malých černoušků (1939)
+- literární druh: **epika**
+- literární žánr: **detektivní román**
+- literární směr/sloh: **kriminální fikce 20. století**
+
+#### Stylistická a jazyková charakteristika
+- chronologický děj
+- vypravěč je v er-formě
+- dílo je poutavé a napínavé
+- vyskytují se hovorové výrazy, ironie
+- častá přímá řeč
+- symboly - deset malých černoušků reprezentují návštěvníky ostrova
+- úsek s poezií, báseň o černoušcích
+- u líčení vražd se objevují prvky naturalismu
+
+#### Téma díla
+- 10 lidí uvíznou na opuštěném ostrově a postupně začnou umírat
+- braní spravedlnosti do vlastních rukou
+
+#### Časové a prostorové umístění
+- Černochův ostrov poblíž Devonského pobřeží
+- na konci 30. let 20. století
+
+#### Postavy
+- **soudce Lawrence Wargrave**
+	- odsoudil nevinného vězně k smrti
+	- na konci je odhaleno, že je vrahem, který vše zkonstruoval
+- **Vera Claythornová**
+	- učitelka, nechala úmyslně utopit chlapce
+- **Philip Lombard**
+	- na Sahaře nechal zemřít 21 afrických můžů
+- **Emily Brentová**
+	- náboženská fanatička
+	- z domu vyhnala těhotnou služebnou, nechala ji zemřít
+	- za svůj čin se nestydí a považuje ho za správný
+- **John Macarthur**
+	- generál, poslal do války zemřít milence své ženy
+- **Edward Armstrong**
+	- doktor, pod vlivem alkoholu operoval ženu, která zemřela
+- **Tony Marston**
+	- mladý pohledný muž, jezdí rychle, přejel dvě děti
+- **William Blore**
+	- usvědčil muže, který byl odsouzen na nucené práce a za rok zemřel
+- **Thomas Rodgers**
+	- sluha na Černochově ostrově, společně se svou ženou nepodali nemocné ženě, u které pracovali, léky, a ta zamřela
+- **Ethel Rodgersová**
+	- služka na Černochově ostrově, žena Thomase Rodgerse
+
+#### Stručný děj díla
+- 10 lidí se setkají na Černochově ostrově
+- byli pozváni různými způsoby, někomu přišel dopis od vzdáleného přítele či bývalé manželky, někomu telegram, atp.
+- po přijetí na ostrov zjišťují, že důvody pozvání byly vymyšlené, a že jsou na ostrově izolování
+- sluha Thomas Rodgers pustí gramofonovou desku, která všechny návštěvníky ostrova osočí ze zločinů
+- Rodgers tvrdí, že vše dělá podle pokynů pana N. Z. Namyho, ale všem brzy dojde, že pravděpodobně neexistuje, protože jeho jméno zní jako "pan neznámý"
+- návštěvníci si také všimnou, že na pokojích visí básnička o deseti malých černoušcích, kteří postupně umírají, až žádný nezbyde
+- návštěvníci ostrova brzy začnou umírat také, a to způsoby, které jsou stejné, jako ty popisovány v básničce
+- prohledají ostrov s motivací najít vraha, ale nikoho nenajdou, a tak jim dojde, že vrahem musí být někdo z nich
+- na konec všichni zemřou, až zbyde jen Vera Claythornová, která se sama oběsí
+- kniha končí dopisem od vraha soudce Lawrence Wargrava, který se ke všemu přizná
+
+#### Doplňující informace
+- Deset malých černoušků je nejprodávanějším detektivním románem všech dob
+- kontroverzní je název knihy, který obsahuje rasistický pojem
+	- kniha původně vyšla v anglii pod názvem *Ten Little Niggers*, v Americe byl ale pro nevhodnost název změněn, takže když kniha o rok později vyšla, jmenovala se *And Then There Were None*
+	- dnešní české publikace se také prodávají pod názvem *A pak nezbyl žádný*

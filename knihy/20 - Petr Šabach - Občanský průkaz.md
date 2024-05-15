@@ -1,0 +1,189 @@
+## Česká literatura 2. poloviny 20. století
+- konec 2. sv. v. v Evropě (8. 5. 1945)
+	- mnoho autorů ji nepřežilo
+		- Karel Čapek
+		- Josef Čapek
+		- Karel Poláček
+		- Vladislav Vančura
+		- Jiří Orten
+- komunistický převrat (25. 2. 1948)
+	- znárodňování, kolektivizace země, čistky, procesy, cenzura
+	- **3 povolené proudy literatury:**
+		1. socialistický realismus
+		2. budovatelský román
+		3. historická témata
+	- **neoficiální (domácí) literatura**
+		- ineditní
+		- samizdatová
+	- **exilová literatura**
+	- zničení 27. milionů knih
+	- uvolnění v 60. letech
+	- pražské jaro (jaro - léto 1968)
+		- 21. 8. 1968 - okupace tanky varšavské smlouvy
+	- 70. a 80. léta - normalizace
+	- 1977 - Charta 77
+	- 17. 11. 1989 - Sametová revoluce
+		- konec cenzury, svobodná literatura
+- **další autoři období:**
+	- Josef Škvorecký
+		- *Zbabělci* (autobiografický román)
+		- *Tankový prapor* (román)
+		- *Příběh inženýra lidských duší* (román)
+	- Arnošt Lustig
+		- *Noc a naděje* (sbírka povídek)
+		- *Motlitba pro Kateřinu Horovitzovou* (novela)
+		- *Dita Saxová* (novela)
+	- Vladimír Páral
+		- *Šest pekelných nocí* (román)
+		- černá pentalogie:
+			- *Veletrh splněných přání* (novela)
+			- *Soukromá vichřice: Laboratorní zpráva ze života hmyzu* (román)
+			- *Katapult* (novela)
+			- *Milenci a vrazi* (román)
+			- *Profesionální žena: Román pro každého* (román)
+	- Pavel Kohout
+		- *Katyně* (román)
+	- Ludvík Vaculík
+		- *Český snář* (román)
+		- *Morčata* (román)
+	- Ladislav Fuchs
+		- *Pan Theodor Mundstock* (román)
+		- *Spalovač mrtvol* (román)
+	- Milan Kundera
+		- *Žert* (román)
+		- *Směšné lásky* (soubor povídek)
+		- *Nesnesitelná lehkost bytí* (román)
+		- *Nesmrtelnost* (román)
+	- Bohumil Hrabal
+		- *Perlička na dně* (soubor povídek)
+		- *Slavnosti sněženek* (soubor povídek)
+		- *Ostře sledované vlaky* (novela)
+		- *Obsluhoval jsem anglického krále* (román)
+		- *Příliš hlučná samota* (román)
+		- *Postřižiny* (román)
+	- Ota Pavel
+		- *Pohádka o Raškovi* (pohádka)
+		- *Dukla mezi mrakodrapy* (román?)
+		- *Smrt krásných srnců* (soubor povídek)
+		- *Jak jsem potkal ryby* (soubor povídek)
+	- Petr Šabach
+		- *Jak potopit Austrálii* (soubor povídek)
+		- *Hovno hoří* (sbírka povídek)
+		- *Opilé banány* (sbírka povídek)
+		- *Občanský průkaz* (sbírka povídek)
+	- Michal Viewegh
+		- *Báječná léta pod psa* (román)
+
+## Petr Šabach
+- **1951 - 2017**
+- psal humoristické romány a povídky
+- výrazná autobiografičnost
+- díla jsou často spojena s městskou čtvrtí Dejvice
+- v díle typicky jednotlivé epizody, změť příběhů
+- jeho knihy byly zfilmovány do úspěšných filmů od režiséra **Jana Hřebejka** a scénáristy **Petra Jarchovského**, adaptace si berou příběhy a náměty z různých knih, prolínají se
+	- *Hovno hoří* -> *Pelíšky*
+	- *Opilé banány* -> *Pupendo*
+- kniha *Občanský průkaz* byla zfilmována režisérem **Ondřejem Trojanem** pod stejným názvem
+- narodil se v Praze
+- vystudoval teorii kultury na FFUK
+- pracoval jako technický redaktor, metodik kulturního domu, noční hlídač v Národní galerii
+- byl odborným referentem Galerie hlavního města Prahy
+- po roce 2001 žil jako volný spisovatel
+- vedl seminář tvůrčího psaní
+- žil v pražských Dejvicích se svou ženou
+- zemřel po krátké těžké nemoci
+- **dílo:**
+	- *Jak potopit Austrálii*
+		- 50. léta
+	- *Hovno hoří*
+		- 60. léta
+		- zfilmováno ve filmu *Pelíšky*
+	- *Opilé banány*
+		- normalizace, 70. a 80. léta
+		- zfilmováno ve filmu *Pupendo*
+	- *Občanský průkaz*
+		- normalizace, 70. a 80. léta
+		- zfilmováno ve stejnojmeném filmu
+
+## Občanský průkaz (2006)
+- literární druh: **epika**
+- literární žánr: **novela**
+- literární směr/sloh: **současná česká literatura**
+
+#### Stylistická a jazyková charakteristika
+- kniha se skládá z kapitol, nejsou pojmenované, jsou odděleny třemi hvězdičkami
+- není souvislá dějová linie
+- vyskytují se intermezza, jsou postřehy navazující na příběhy, charakterizují dobu
+- převažuje pásmo vypravěče v ich-formě
+- přímá i nepřímá řeč
+- vložené verše, humoristické básničky Aleše, mají za cíl pobavit
+- současný jazyk
+- ustálená slovní spojení, nářečí, řečnické otázky, spisovný i nespisovný jazyk, hovorové výrazy, vulgární výrazy, knižní výrazy, odborné výrazy, cizí a přejaté výrazy, nadsázky (hyperboly)
+- ironie, sarkasmus, humor
+
+#### Téma díla
+- život v komunistickém režimu, podáván s nadsázkou
+- dospívání po roce 1968, dopad režimu na dospělé
+- revolta mladých lidí
+- teror od VB, udavačství, emigrace
+
+#### Postavy
+- **Petr**
+	- vypravěč, hlavní postava
+	- formou vzpomínek nás seznamuje se svým mládím
+- **Aleš**
+	- spolužák Aleše ze ZŠ
+	- básník, jeho humornými básničkami je text proložen
+	- má kvůli básničkám problémy
+	- je chartistou, je kvůli tomu vyhozen ze školy, stane se vrátným
+- **Venca Jehlička/Popelka**
+	- spolužák Aleše ze ZŠ
+	- žije jen s otcem, který je alkoholik a rváč
+	- snaží se vyhnout vojně tím, že simuluje duševní poruchu, docílí ale jen odkladu
+- **Míťa**
+	- spolužák Aleše ze ZŠ
+	- žije s babičkou, má rodinu v Americe, nemůže za ní
+	- aby nemusel na vojnu, úmyslně se nachladí, ale na následky nemoci zemře
+- **Martin**
+	- spolužák Aleše ze ZŠ
+	- vtipný nadaný chlapec, umělecký
+	- stane se z něj alkoholik, přestane komunikovat s okolím, spáchá sebevraždu
+- **Charlie**
+	- spolužák Aleše ze ZŠ
+	- drsný vzhled, nebojí se jít na frontu
+	- zažije šokující zkušenost ve vězení
+- **Medvěd**
+	- spolužák Aleše ze ZŠ
+	- rváč, neustále někomu radí, otevře si vlastní bar
+- **Daniel "Daněk" Pačes**
+	- nenáviděný spolužák Aleše ze ZŠ
+	- pokřivené charakterové vlastnosti
+	- udavač, později se stane policistou, pak dokonce ministrem
+	- surovec, zneužívá své moci
+- **Rotný Rusňák**
+	- policista
+	- znepříjemňuje Petrovi život
+- **Paní učitelka Pivoňková**
+	- třídní profesorka hlavních hrdinů
+	- má pochopení pro klukoviny studentů, vytáhne je z řady problémů
+	- nakonec je propuštěna
+- **Petrovi rodiče**
+- **Pavel Hora**
+	- nejdříve rodinný přítel, později se ukáže že je udavač
+	- z přáítelství se stává nenávist
+
+#### Stručný děj díla
+- skupina patnáctiletých kluků poprvé dostanou své občanské průkazy, které musí nosit u sebe, jinak se dostanou do problémů s policií
+- hned při předávání se rozhodnou, že při potřesení ruky strážníka mu rozhodí klouby, začínají se dostávat do problémů
+- všichni si vytrhnou stránku 13 na protest proti KSČ
+- vypravěč Petr popisuje životy svých kamarádů a jejich útrapy, poslouchání zakázaných kapel, pití alkoholu, atd.
+- Petr občanský průkaz skoro okamžitě ztratí, má problémy s policistou Rusňákem, který na něj vždy čeká před hospodou a chce vidět jeho legitimaci, vždy ho odvede na stanici, potom spolu ale mají lepší vztah
+- ve škole nad mladíky drží strážnou ruku učitelka Pivoňková, kterou ale potom vyhodí a odstěhuje se do Kanady
+- společně spolu prožívají problémy v rodině, první lásky, šikanu od policie
+- řeší nástup na vojnu, snaží se mu vyhnout různými způsoby, někteří dokonce zemřou při pokusech na vojnu nejít
+- Petr pobyde nějakou dobu na psychiatrii a dostane modrou knížku díky dobrým vztahům otce s psychiatrií
+- parta kluků většinu času tráví po hospodách, řeší potyčky s VB
+- Petr, Venca a Medvěd jdou na natáčení filmu, kde mohou házet rajčata na policisty, Petr se rozhodne se pořádně pomstít když zjistí, že jeden z policistů je Rusňák
+- kniha končí tím, že se jako dospělí dozvědí, kdo na ně za režimu donášel
+- zjistí, že dlouhodobý rodinný kamarád Pavel Hora byl ve skutečnosti udavač a donášel na ně
+- Petr se živí jako spisovatel, podepisuje lidem své knížky, a i přes zradu podepíše knížku paní Horové

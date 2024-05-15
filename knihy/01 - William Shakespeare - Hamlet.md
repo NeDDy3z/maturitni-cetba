@@ -1,0 +1,191 @@
+## Renesance a humanismus
+### Renesance
+- počátek v Itálii ve 14. století
+- název znamená obnovení, znovuzrození
+- kulturní a společenské hnutí, které vedlo ke zásadním změnám v literatuře, umění, vědě a životě lidí
+- navazuje na středověk, završuje ho
+- představuje návrat antické vzdělanosti, odklon od středověkého feudálního a náboženského smýšlení
+- **renesanční autoři:**
+	- italská renesance
+		- Dante Alighieri
+			- *Božská komedie* (rozsáhlá báseň)
+		- Francesco Petrarca
+			- *Zpěvník* (soubor sonetů)
+		- Giovanni Boccaccio
+			- *Dekameron* (sbírka novel)
+	- francouzská renesance
+		- Francois Villon
+			- *Závěť* (básnická sbírka)
+			- *Odkaz* (básnická sbírka)
+	- španělská renesance
+		- Miguel de Cervantes y Saavedra
+			- *Důmyslný rytíř Don Quijote de la Mancha* (dvoudílný román)
+	- anglická renesance
+		- William Shakespeare
+			- *Zkrocení zlé ženy* (komedie)
+			- *Sen noci svatojánské* (komedie)
+			- *Romeo a Julie* (tragédie)
+			- *Hamlet, kralevic dánský* (tragédie)
+			- *Macbeth* (tragédie)
+			- *Hamlet* (tragédie)
+			- *Julius Caesar* (historické drama)
+### Humanismus
+- od konce 15. století, celé 16. století
+- úzce spjatý s renesancí
+- humanus = lidský
+- středověké vzdělání směřovalo k poznání boha, humanismus směřuje k poznání člověka
+- v českých zemích byly myšlenky humanismu posilovány a spjaty s náboženskou reformací
+- řeší otázky svobody myšlení, spravedlnosti společenského řádu
+- humanisté se projevují latinsky a v národním jazyce, národní humanismus je důležitější
+- program národního humanismu formuloval **Viktorin Kornel**, vztyčil poždavek, aby byla díla psaná česky a ne latinsky, chtěl vypracovat češtinu na úroveň klasické latiny
+- vrcholem národního humanismu je *Bible kralická*, překlad Bible do češtiny od překladatelů a teologů Jednoty bratrské, vzor pro úroveň češtiny 16. století
+- velký vliv na literaturu měl nakladatel **Daniel Adam z Veleslavína**, organizoval literární čínnost, vydával slovníky
+	- doba veleslavínská = zlatý věk české literatury
+- **humanističtí autoři:**
+	- píšící latinsky
+		- Jan z Rabštejna
+			- *Dialogus* (nábožensko-politický spis)
+		- Bohuslav Hasištejnský z Lobkovic
+			- *Žaloba k sv. Václavu na mravy Čechů* (satira)
+	- píšící česky
+		- Jan Blahoslav
+			- *Filipika proti misomusům* (spis obhajující nezbytnost vzdělání)
+			- *Gramatika česká* (jazykovědný spis)
+			- *překlad Nového zákona* (součást *Bible kralické*)
+		- Václav Hájek z Libočan
+			- *Kronika česká* (kronika českého národa)
+		- Daniel Adam z Veleslavína
+			- *Kalendář historický* (přehled světových dějin)
+			- čtyři slovníky pro školní potřebu
+## Alžbětinské divadlo
+- označení pro tvorbu anglických, pozdně renesančních dramatiků
+- za období vlády Alžběty I.
+- divadla jsou hrána v profesionálních divadelních společnostech, které vznikly kvůli dobrým ekonomickým podmínkám v anglii
+- stavěly se divadelní budovy, divadlo se stalo součástí společenského života
+- vznikaly prakticky všechny žánry: komedie, tragédie, tragikomedie, historické i pohádkové hry
+- **znaky:**
+	- dramata inspirovaná antickou, italskou, anglickou mytologií a historií
+	- literárně náročná, často veršovaná dramata
+	- všechny postavy hrají muži
+	- představení se hrají v kulatých divadlech s nezastřeným jevištěm
+	- inspirace středověkou scénografií
+	- barevné a výrazné kostýmy
+	- málo kulis, postavy představují prostředí dialogem
+	- ve hrách velké množství násilí
+	- dlouhé monology
+	- častý motiv převlékání postav pro skrytí identity
+## William Shakespeare
+- **1564 - 1616**
+- narodil se ve Stratfordu nad Avonou
+- třetí z osmi dětí
+- otec byl rukavičkář, matka dcera bohatého velkostatkáře
+- vystudoval gymnázium, naučil se latinsky a řecky
+- oženil se v 18. letech
+- odešel do Londýna, hrál v různých divadelních společnostech
+- později byl spolumajitelem divadla Globe Theatre
+- ke konci života se usadil v rodném Stratfordu, kde zemřel
+- jeho tvorba je vrchol anglické renesance a alžbětinského divadla
+- **tvorbu dělíme na tři klíčová období:**
+	1. **1590 - 1600**, především komedie a historické hry, ale i Romeo a Julie
+		- *Kupec benátský* (komedie)
+		- *Zkrocení zlé ženy* (komedie)
+		- *Sen noci svatojánské* (komedie)
+		- *Jindřich VI.* (historické drama)
+		- *Richard I.* (historické drama)
+		- *Král Jan* (historické drama)
+		- *Romeo a Julie* (tragédie)
+	2. **1600 - 1608**, období tragédií a sonetů, které jsou reakcí na smrt jediného syna, zklamání a rozčarování nad vývojem společnosti
+		- *Macbeth* (tragédie)
+		- *Král Lear* (tragédie)
+		- *Othello* (tragédie)
+		- *Hamlet* (tragédie)
+		- *Sonety* (básnická sbírka)
+	3. **1608 - 1612**, smíření se životem, pohádkové hry charakteru tzv. romance, obsahující prvky komedie i tragédie
+		- *Cymbelín* (pohádková hra)
+		- *Zimní pohádka* (pohádková hra)
+		- *Bouře* (pohádková hra)
+		- *Jindřich VIII.* (historické drama)
+## Hamlet, princ dánský (1602)
+- literární druh: **drama** (divadelní hra)
+- literární žánr: **alžbětinská tragédie**
+- literární směr/sloh: **renesance, alžbětinské divadlo, prvky humanismu**
+### Stylistická a jazyková charakteristika
+- členění do 5 dějství
+- většinou spisovný a srozumitelný jazyk, obsahuje i nespisovný
+- psané **blankversem**
+	- verš o pěti stopách, většinou končící na přízvučnou slabiku, v anglické literatuře nejrozšířenější
+- typické dlouhé monology s filozofickým obsahem
+	- *Být nebo nebýt – to je otázka: je důstojnější zapřít se a snášet surovost osudu a jeho rány, anebo se vzepřít moři trápení a skoncovat to navždy?*
+- některé části jsou rýmované
+- scénické poznámky
+- archaismy, knižní slova, dobové narážky, patos, slovní hříčky, anafory (opakování slov na začátku veršů), metafory, metonymie, personifikace
+- vznešená obraznost i hovorovost
+### Téma díla
+- dramatické a rodinné vztahy dánského prince hamleta
+- zrada, nenávist, pomsta, láska lži, intriky, smrt
+### Časové a prostorové umístění
+- v Dánsku, na hradě Elsinor
+- na počátku 17. století (autorova současnost)
+### Postavy
+- **Hamlet**
+	- hlavní postava, Dánský princ
+	- syn zavražděného krále Hamleta
+	- velmi filozofický, má mnoho filozofických monologů, je nerozhodný nad pomstou, přemýšlí nad lidskou existencí a smyslem života
+	- chytrý, vypočítavý, moudrý
+	- předstírá šílenství, aby mohl zjistit pravdu o otcově smrti
+- **Král Claudius**
+	- bratr krále Hamleta, kterého zavraždil vlastní rukou, nalil mu jed do ucha
+	- dle souzení Hamleta je nevhodný být králem, podstatně horší ve všem než jeho otec
+	- zlý, zákeřný, podlý, ctižádostivý
+	- zpytuje svědomí nad svým hříchem, modlí se
+- **Královna Gertruda**
+	- matka Hamleta, bývalá manželka Hamletova otce, nyní manželka krále Claudiuse
+	- vnitřně rozpolcená, na straně dobra i zla
+- **Polonius**
+	- otec Ofélie a Laerta
+	- oddaný králi
+	- odposlouchává rozhovor Hamleta a královny Gertrudy, Hamlet ho odhalí ale myslí si že je Claudius, a tak ho zavraždí
+- **Ofélie**
+	- dcera Polonia, sestra Laerta
+	- Hamletova láska
+	- skrývá svou náklonnost k Hamletovi
+	- později se zblázní a utopí se
+- **Laertes**
+	- syn Polonia, bratr Ofélie
+	- chce pomstít smrt svého otce, vyzve Hamleta na souboj
+- **Duch** / **Král Hamlet (mrtvý král)**
+	- skvělý král, otec Hamleta
+	- před začátkem dění hry byl zavražděn Claudiusem, který jeho trůn převzal
+	- zjevuje se Hamletovi a dalším jako přízrak
+- **Horacio**
+	- Hamletův přítel
+	- čestný a spravedlivý, harmonická osobnost
+	- správně soudí Hamletovo jednání a Claudiovu vinu
+### Stručný děj díla
+1. dějství
+	- dánský král zemřel, na trůn nastoupil jeho bratr Claudius, oženil se s králiovnou Gertrudou
+	- Hamletovi se zjeví duch jeho otce, prozradí mu, že ho zavraždil Claudius tím, že mu nalil jed do ucha, chce po Hamletovi, aby se pomstil
+2. dějství
+	- Hamlet se rozhodne, že se pomstí, předstírá šílenství, snaží se přijít na to, zda mu přízrak říkal pravdu
+	- Poloniovi se zdá Hamletovo chování podezřelé, varuje Ofélii před Hamletovou láskou
+	- Hamlet pozve na dvůr kočovné herce, požádá je o inscenaci, která představuje vraždu krále
+3. dějství
+	- inscenace proběhne, Claudius je zděšen a uteče, potvrdí, že je vrahem
+	- Hamlet nachásí Claudia v kapli, Claudius se ale modlí a lituje svých činů, a tak jeho vraždu odloží
+	- jde za svou matkou, poví ji o zjevení ducha
+	- při rozhovoru si všimne, že někdo stojí za závěsem, myslí si, že to je Claudius, a tak ho zabije
+	- zjišťuje ovšem, že zabil Polonia
+4. dějství
+	- Claudius se bojí Hamleta, posílá ho s Rozenkratzem a Guildensternem do Anglie
+	- Rozenkratovi a Guildensternovi dává dopis, ve kterém se píše, že má být Hamlet po příjezdu do Anglie popraven
+	- Hamlet si dopis přečte, zamění ho za jiný, ve kterém se píše, že mají být popraveni jeho společníci, kteří jsou opravdu popraveni
+	- Hamlet se s Horaciem vrací zpět do Dánska
+	- v Dánsku mezitím Ofélie zešílí ze smrti svého otce a z neopětované lásky od Hamleta, utopí se
+	- po cestě z Anglie se Hamlet zastaví u hrobníka, který pro Ofélii kope hrob
+5. dějství
+	- Laertes se chce Hamletovi pomstít za vraždu svého otce, vyzve ho na souboj
+	- Laertes se ovšem spojí s Claudiem, chtějí Hamleta zabít, a tak má Laert ostrý a otrávený meč, Claudius připraví otrávené víno
+	- víno ovšem vypije Gertruda, pozná, že měl Hamlet pravdu, umírá
+	- Laertes na Hamleta zaútočí, Hamlet ovšem Laertovi sebere meč a Laerta zabije, sám se ale mečem zraní
+	- Hamlet před svou smrtí otrávením zabije Claudia
+	- poprosí Horacia, aby žil dál a vypověděl světu pravdu o tom, co se odehrálo
