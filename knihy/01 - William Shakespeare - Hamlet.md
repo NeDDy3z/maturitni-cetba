@@ -25,19 +25,18 @@
 			- *Zkrocení zlé ženy* (komedie)
 			- *Sen noci svatojánské* (komedie)
 			- *Romeo a Julie* (tragédie)
-			- *Hamlet, kralevic dánský* (tragédie)
 			- *Macbeth* (tragédie)
 			- *Hamlet* (tragédie)
 			- *Julius Caesar* (historické drama)
 ### Humanismus
-- od konce 15. století, celé 16. století
+- od konce 15. století, do konce 16. století
 - úzce spjatý s renesancí
 - humanus = lidský
 - středověké vzdělání směřovalo k poznání boha, humanismus směřuje k poznání člověka
 - v českých zemích byly myšlenky humanismu posilovány a spjaty s náboženskou reformací
 - řeší otázky svobody myšlení, spravedlnosti společenského řádu
 - humanisté se projevují latinsky a v národním jazyce, národní humanismus je důležitější
-- program národního humanismu formuloval **Viktorin Kornel**, vztyčil poždavek, aby byla díla psaná česky a ne latinsky, chtěl vypracovat češtinu na úroveň klasické latiny
+- program národního humanismu formuloval **Viktorin Kornel**, vztyčil požadavek, aby byla díla psaná česky a ne latinsky, chtěl vypracovat češtinu na úroveň klasické latiny
 - vrcholem národního humanismu je *Bible kralická*, překlad Bible do češtiny od překladatelů a teologů Jednoty bratrské, vzor pro úroveň češtiny 16. století
 - velký vliv na literaturu měl nakladatel **Daniel Adam z Veleslavína**, organizoval literární čínnost, vydával slovníky
 	- doba veleslavínská = zlatý věk české literatury
@@ -80,7 +79,7 @@
 - třetí z osmi dětí
 - otec byl rukavičkář, matka dcera bohatého velkostatkáře
 - vystudoval gymnázium, naučil se latinsky a řecky
-- oženil se v 18. letech
+- oženil se v 18 letech
 - odešel do Londýna, hrál v různých divadelních společnostech
 - později byl spolumajitelem divadla Globe Theatre
 - ke konci života se usadil v rodném Stratfordu, kde zemřel
