@@ -15,7 +15,7 @@ Díla označená (**D**) jsou dramata, díla označená (**P**) jsou poezie.
 
 #### Světová a česká literatura do konce 18. století:
 > *alespoň 2 díla*
-1. William Shakespeare - Hamlet (**D**)
+1. [William Shakespeare - Hamlet](knihy/01%20-%20William%20Shakespeare%20-%20Hamlet.md) (**D**)
 2. William Shakespeare - Romeo a Julie (**D**)
 
 #### Světová a česká literatura do konce 19. století:
