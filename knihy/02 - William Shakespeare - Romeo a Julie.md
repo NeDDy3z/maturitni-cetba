@@ -25,18 +25,19 @@
 			- *Zkrocení zlé ženy* (komedie)
 			- *Sen noci svatojánské* (komedie)
 			- *Romeo a Julie* (tragédie)
+			- *Hamlet, kralevic dánský* (tragédie)
 			- *Macbeth* (tragédie)
 			- *Hamlet* (tragédie)
 			- *Julius Caesar* (historické drama)
 ### Humanismus
-- od konce 15. století, do konce 16. století
+- od konce 15. století, celé 16. století
 - úzce spjatý s renesancí
 - humanus = lidský
 - středověké vzdělání směřovalo k poznání boha, humanismus směřuje k poznání člověka
 - v českých zemích byly myšlenky humanismu posilovány a spjaty s náboženskou reformací
 - řeší otázky svobody myšlení, spravedlnosti společenského řádu
 - humanisté se projevují latinsky a v národním jazyce, národní humanismus je důležitější
-- program národního humanismu formuloval **Viktorin Kornel**, vztyčil požadavek, aby byla díla psaná česky a ne latinsky, chtěl vypracovat češtinu na úroveň klasické latiny
+- program národního humanismu formuloval **Viktorin Kornel**, vztyčil poždavek, aby byla díla psaná česky a ne latinsky, chtěl vypracovat češtinu na úroveň klasické latiny
 - vrcholem národního humanismu je *Bible kralická*, překlad Bible do češtiny od překladatelů a teologů Jednoty bratrské, vzor pro úroveň češtiny 16. století
 - velký vliv na literaturu měl nakladatel **Daniel Adam z Veleslavína**, organizoval literární čínnost, vydával slovníky
 	- doba veleslavínská = zlatý věk české literatury
@@ -75,15 +76,17 @@
 	- častý motiv převlékání postav pro skrytí identity
 ## William Shakespeare
 - **1564 - 1616**
+- podle některých odhadů je nejprodávanějším spisovatelem všech dob (podle jiných je jim Agatha Christie)
 - narodil se ve Stratfordu nad Avonou
 - třetí z osmi dětí
 - otec byl rukavičkář, matka dcera bohatého velkostatkáře
 - vystudoval gymnázium, naučil se latinsky a řecky
-- oženil se v 18 letech
+- oženil se v 18. letech
 - odešel do Londýna, hrál v různých divadelních společnostech
 - později byl spolumajitelem divadla Globe Theatre
-- ke konci života se usadil v rodném Stratfordu, kde taky zemřel
+- ke konci života se usadil v rodném Stratfordu, kde zemřel
 - jeho tvorba je vrchol anglické renesance a alžbětinského divadla
+- celkem napsal 37 dramat a sbírku sonetů
 - **tvorbu dělíme na tři klíčová období:**
 	1. **1590 - 1600**, především komedie a historické hry, ale i Romeo a Julie
 		- *Kupec benátský* (komedie)
@@ -104,87 +107,91 @@
 		- *Zimní pohádka* (pohádková hra)
 		- *Bouře* (pohádková hra)
 		- *Jindřich VIII.* (historické drama)
-## Hamlet, princ dánský (1602)
+## Romeo a Julie (1595)
 - literární druh: **drama** (divadelní hra)
 - literární žánr: **alžbětinská tragédie**
 - literární směr/sloh: **renesance, alžbětinské divadlo, prvky humanismu**
 ### Stylistická a jazyková charakteristika
-- členění do 5 dějství
+- členění na 5 dějství
 - většinou spisovný a srozumitelný jazyk, obsahuje i nespisovný
 - psané **blankversem**
 	- verš o pěti stopách, většinou končící na přízvučnou slabiku, v anglické literatuře nejrozšířenější
+- prolínání prvků tragédie a komedie, zvrat v tragédii je překvapivý
 - typické dlouhé monology s filozofickým obsahem
-	- *Být nebo nebýt – to je otázka: je důstojnější zapřít se a snášet surovost osudu a jeho rány, anebo se vzepřít moři trápení a skoncovat to navždy?*
 - některé části jsou rýmované
 - scénické poznámky
 - archaismy, knižní slova, dobové narážky, patos, slovní hříčky, anafory (opakování slov na začátku veršů), metafory, metonymie, personifikace
 - vznešená obraznost i hovorovost
 ### Téma díla
-- dramatické a rodinné vztahy dánského prince hamleta
-- zrada, nenávist, pomsta, láska lži, intriky, smrt
+- nešťastný osud dvou milenců ze znepřátelených rodů
+- zbytečnost, absurdita a nebezpečnost konfliktu mezi rody
+- právo na sebeurčení, schopnost se vzepřít
+- zobrazení společnosti, ve které je vybočení z uzavřeného rodového kruhu přístě trestáno
+- majetek, moc, pýcha, domýšlivost
 ### Časové a prostorové umístění
-- v Dánsku, na hradě Elsinor
-- na počátku 17. století (autorova současnost)
+- v italských městech Verona a Mantova (kde se schovává Romeo po vraždě Tybalta)
+- v 16. století (autorova současnost)
 ### Postavy
-- **Hamlet**
-	- hlavní postava, Dánský princ
-	- syn zavražděného krále Hamleta
-	- velmi filozofický, má mnoho filozofických monologů, je nerozhodný nad pomstou, přemýšlí nad lidskou existencí a smyslem života
-	- chytrý, vypočítavý, moudrý
-	- předstírá šílenství, aby mohl zjistit pravdu o otcově smrti
-- **Král Claudius**
-	- bratr krále Hamleta, kterého zavraždil vlastní rukou, nalil mu jed do ucha
-	- dle souzení Hamleta je nevhodný být králem, podstatně horší ve všem než jeho otec
-	- zlý, zákeřný, podlý, ctižádostivý
-	- zpytuje svědomí nad svým hříchem, modlí se
-- **Královna Gertruda**
-	- matka Hamleta, bývalá manželka Hamletova otce, nyní manželka krále Claudiuse
-	- vnitřně rozpolcená, na straně dobra i zla
-- **Polonius**
-	- otec Ofélie a Laerta
-	- oddaný králi
-	- odposlouchává rozhovor Hamleta a královny Gertrudy, Hamlet ho odhalí ale myslí si že je Claudius, a tak ho zavraždí
-- **Ofélie**
-	- dcera Polonia, sestra Laerta
-	- Hamletova láska
-	- skrývá svou náklonnost k Hamletovi
-	- později se zblázní a utopí se
-- **Laertes**
-	- syn Polonia, bratr Ofélie
-	- chce pomstít smrt svého otce, vyzve Hamleta na souboj
-- **Duch** / **Král Hamlet (mrtvý král)**
-	- skvělý král, otec Hamleta
-	- před začátkem dění hry byl zavražděn Claudiusem, který jeho trůn převzal
-	- zjevuje se Hamletovi a dalším jako přízrak
-- **Horacio**
-	- Hamletův přítel
-	- čestný a spravedlivý, harmonická osobnost
-	- správně soudí Hamletovo jednání a Claudiovu vinu
+- **Romeo**
+	- mladý (16 let), pohledný muž
+	- z rodu Monteků
+	- romantický, bezhlavě se zamiluje do Julie
+	- smělý, unáhlený, citlivý, odvážný, impulzivní
+- **Julie**
+	- mladá (13 let), krásná žena
+	- z rodu Kapuletů
+	- romantická, bezhlavě oddaná Romeovi
+	- má dobrý vztah s chůvou, špatný vztah s rodiči
+	- laskavá, unáhlená, citlivá, obětavá
+- **Otec Vavřinec** / **Lorenzo**
+	- starý františkánský mnich
+	- tajně oddá oba milence
+	- přeje lásce Romea a Julie, má naději, že ztmelí rody
+	- obětavý, moudrý, zbožný
+- **Chůva**
+	- stará prostá žena
+	- vychovala Julii, má ji moc ráda
+	- veselá, upovídaná, vnáší do tragédie komické prvky
+	- je spojnicí mezi Romeem a Julií
+- **Tybalt**
+	- z rodu Kapuletů
+	- bratranec Julie, chtěl pořád bojovat s Monteky
+	- je zabit Romeem
+- **Merkucio**
+	- přítel Romea
+	- nepatří k žádnému rodu
+- **Benvolio**
+	- z rodu Monteků
+	- humorný, vtipný, zábavný
+- **Paris**
+	- hrabě, kterého si má Julie vzít
 ### Stručný děj díla
 1. dějství
-	- dánský král zemřel, na trůn nastoupil jeho bratr Claudius, oženil se s královnou Gertrudou
-	- Hamletovi se zjeví duch jeho otce, prozradí mu, že ho zavraždil Claudius tím, že mu nalil jed do ucha, chce po Hamletovi, aby se pomstil
+	- členové rodu Monteků a Kapuletů se střetnou na náměstí ve Veroně ve velkém konfliktu
+	- vévoda Eskal tento střet ukončí, vyhlásí, že jakýkoliv podobný konflikt bude potrestán smrtí
 2. dějství
-	- Hamlet se rozhodne, že se pomstí, předstírá šílenství, snaží se přijít na to, zda mu přízrak říkal pravdu
-	- Poloniovi se zdá Hamletovo chování podezřelé, varuje Ofélii před Hamletovou láskou
-	- Hamlet pozve na dvůr kočovné herce, požádá je o inscenaci, která představuje vraždu krále
+	- Kapuletové ve Veroně pořádají maškarní ples, jehož součástí má být oznámení zasnoubení Julie a Parida
+	- když se o plesu Romeo dozví, rozhodne se ho s Merkuciem a Benvoliem navštívit, pod maskou se na ples dostanou
+	- Juliin bratranec Tybald ovšem Romea pozná podle hlasu, chce vyvolat bitku, aby Romea zostuzil, starý Kapulet, otec Julie, mu to vymluví
+	- Romeo zůstává na plese a spatří Julii, na první pohled propadne do hluboké lásky 
 3. dějství
-	- inscenace proběhne, Claudius je zděšen a uteče, potvrdí, že je vrahem
-	- Hamlet nachásí Claudia v kapli, Claudius se ale modlí a lituje svých činů, a tak jeho vraždu odloží
-	- jde za svou matkou, poví ji o zjevení ducha
-	- při rozhovoru si všimne, že někdo stojí za závěsem, myslí si, že to je Claudius, a tak ho zabije
-	- zjišťuje ovšem, že zabil Polonia
+	- ples skončí, Romeo a Julie na sebe usilovně myslí
+	- Romeo v noci tajně navštíví zahradu Kapuletů
+	- zpívá milostné básně u Juliiny ložnice
+	- Julie stojí na balkónu a poslouchá, navzájem si vyznají lásku
+	- druhý den se setkají, otec Vavřinec je oddá
 4. dějství
-	- Claudius se bojí Hamleta, posílá ho s Rozenkratzem a Guildensternem do Anglie
-	- Rozenkratovi a Guildensternovi dává dopis, ve kterém se píše, že má být Hamlet po příjezdu do Anglie popraven
-	- Hamlet si dopis přečte, zamění ho za jiný, ve kterém se píše, že mají být popraveni jeho společníci, kteří jsou opravdu popraveni
-	- Hamlet se s Horaciem vrací zpět do Dánska
-	- v Dánsku mezitím Ofélie zešílí ze smrti svého otce a z neopětované lásky od Hamleta, utopí se
-	- po cestě z Anglie se Hamlet zastaví u hrobníka, který pro Ofélii kope hrob
+	- Juliin bratranec Tybalt Romea nenávidí, vyzve ho na souboj v odpoledne svatby, Romeo odmítá kvůli lásce k Julii
+	- Romeův přitel Merkucio ovšem nesnese potupu odmítnutého souboje, začne s Tybaltem bojovat, Romeo se snaží konflikt ukončit, ale Merkucio umírá
+	- Romeo je pomstichtivý a zabije Tybalta
+	- za svůj čin je Romeo ušetřen trestu smrti, ale je vyhnán z Verony
+	- další den má Kapulet pro Julii zprýávu, že již zítra bude mít svatbu s Paridem, Julie protestuje ale marně, Kapulet ji nabídne dvě možnosti: buď sňatek s Paridem, nebo ať táhne z jeho domu
+	- zoufalá Julie požádá otce Vavřince o pomoc, který ji zajistí nápoj, po kterém bude Julie vypadat jako mrtvá, čímž se znemožní svatba, a Romeo si pro ní přijede a vysvobodí ji z hrobky
 5. dějství
-	- Laertes se chce Hamletovi pomstít za vraždu svého otce, vyzve ho na souboj
-	- Laertes se ovšem spojí s Claudiem, chtějí Hamleta zabít, a tak má Laert ostrý a otrávený meč, Claudius připraví otrávené víno
-	- víno ovšem vypije Gertruda, pozná, že měl Hamlet pravdu, umírá
-	- Laertes na Hamleta zaútočí, Hamlet ovšem Laertovi sebere meč a Laerta zabije, sám se ale mečem zraní
-	- Hamlet před svou smrtí otrávením zabije Claudia
-	- poprosí Horacia, aby žil dál a vypověděl světu pravdu o tom, co se odehrálo
+	- nápoj funguje, Julii uspí, vypadá jako mrtvá
+	- vyhnaný Romeo se o její smrti dozví, ale dopis od otce Vavřince, který vše vysvětluje, mu nedorazí
+	- Romeo si koupí jed, vrátí se zpět do Verony, jde naposledy políbit Julii, zoufá nad osudem a její smrtí, vyzná ji svou lásku
+	- vypije jed, Julie se probouzí, nachází vedle sebe mrtvého Romea
+	- když vidí, že je Romeo mrtvý, vezme jeho dýku a probodne se, umírá doopravdy
+	- smrt Romea a Julie vedou k usmíření obou rodů
+	- rody vystaví zlaté sochy Romea i Julie, které dodnes stojí ve Veroně
