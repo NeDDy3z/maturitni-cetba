@@ -170,7 +170,7 @@
 	- Hamlet pozve na dvůr kočovné herce, požádá je o inscenaci, která představuje vraždu krále
 3. dějství
 	- inscenace proběhne, Claudius je zděšen a uteče, potvrdí, že je vrahem
-	- Hamlet nachásí Claudia v kapli, Claudius se ale modlí a lituje svých činů, a tak jeho vraždu odloží
+	- Hamlet nachází Claudia v kapli, Claudius se ale modlí a lituje svých činů, a tak jeho vraždu odloží
 	- jde za svou matkou, poví ji o zjevení ducha
 	- při rozhovoru si všimne, že někdo stojí za závěsem, myslí si, že to je Claudius, a tak ho zabije
 	- zjišťuje ovšem, že zabil Polonia

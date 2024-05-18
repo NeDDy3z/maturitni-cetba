@@ -62,8 +62,7 @@
 - ukrajinského původu
 - vyrostl v rodině sedláka
 - vystudoval historii v Petrohradě
-- psal do novin
-- byl dramatik, prozaik
+- byl publicista, dramatik a prozaik
 - v závěru života příklon k mysticismu, samoděržaví, deprese
 	- samoděržaví = *forma absolutistické monarchistické vlády v Rusku, při níž je nejvyšší moc soustředěna do rukou cara, jehož vůle je zákonem*
 - spálil své dílo *Mrtvé duše 2*
@@ -84,7 +83,7 @@
 - dialogy, přímá řeč
 - spisovný jazyk s hovorovými prvky
 - scénické poznámky
-- termíny, oslovení, metafora, zpřirovnání
+- termíny, oslovení, metafora, přirovnání
 
 #### Téma díla
 - kritika společnosti (úplatkářství, byrokratismus)

@@ -39,7 +39,7 @@
 - základem tvorby je experiment
 - děj je upozadněn, není podstatný
 - důraz na subjektivní prožitek postav
-- zachycení vnitřního proudu vědomí
+	- zachycení vnitřního proudu vědomí
 - konfrontace vnitřního a vnějšího světa
 - absurdita světa, života
 - osamocenost jedince, znejištění smyslu existence

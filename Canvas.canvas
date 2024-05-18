@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"20061a5d9df34e71","type":"group","x":-2620,"y":3780,"width":2780,"height":500,"color":"3","label":"Meziválečná lit."},
+		{"id":"9409a5634fbc5366","type":"group","x":-2630,"y":6540,"width":2180,"height":560,"color":"#00aaff","label":"Česká lit. 2. pol. 20. st."},
+		{"id":"6a43ef5f2d0d842b","type":"group","x":-2620,"y":2600,"width":1080,"height":520,"color":"1","label":"Shakespeare"},
+		{"id":"e3c3caab6714faa0","type":"group","x":-2630,"y":6000,"width":1040,"height":520,"color":"4","label":"Karel Čapek"},
+		{"id":"2e015c2b04fac6eb","type":"group","x":-2620,"y":3200,"width":1080,"height":500,"color":"2","label":"Romantismus"},
+		{"id":"cf2aff6ed180a8d7","type":"group","x":-2570,"y":6600,"width":940,"height":440,"color":"5","label":"Ladislav Fuks"},
+		{"id":"11e78f758591b91a","type":"group","x":-1450,"y":6600,"width":940,"height":440,"color":"6","label":"Petr Šabach"},
+		{"id":"7cd9873b64a31553","type":"file","file":"School/C/Maturitní Četba/knihy/03 - Nikolaj Vasiljevič Gogol - Revizor.md","x":-2560,"y":3244,"width":400,"height":400},
+		{"id":"4c8708116b0bc11d","type":"file","file":"School/C/Maturitní Četba/knihy/04 - Edgar Allan Poe - Havran.md","x":-2000,"y":3244,"width":400,"height":400},
+		{"id":"c740e500f0896e9f","type":"file","file":"School/C/Maturitní Četba/knihy/02 - William Shakespeare - Romeo a Julie.md","x":-2000,"y":2659,"width":400,"height":400},
+		{"id":"00ea11d44ec2cc34","type":"file","file":"School/C/Maturitní Četba/knihy/01 - William Shakespeare - Hamlet.md","x":-2560,"y":2659,"width":400,"height":400},
+		{"id":"fc61e5d55e328322","type":"file","file":"School/C/Maturitní Četba/knihy/06 - Erich Maria Remarque - Na zapadní fronte klid.md","x":-2560,"y":3832,"width":400,"height":400},
+		{"id":"9d65885b51a5215b","type":"file","file":"School/C/Maturitní Četba/knihy/07 - Antoine de Saint-Exupéry - Malý princ.md","x":-2000,"y":3832,"width":400,"height":400},
+		{"id":"febf82cb00ac8917","type":"file","file":"School/C/Maturitní Četba/knihy/08 - Ernest Hemingway - Stařec a moře.md","x":-1440,"y":3832,"width":400,"height":400},
+		{"id":"dff8a3585529326d","type":"file","file":"School/C/Maturitní Četba/knihy/12 - Agatha Christie - Deset malých černoušků.md","x":-2550,"y":4940,"width":400,"height":400},
+		{"id":"2f75acb17adf72b6","type":"file","file":"School/C/Maturitní Četba/knihy/13 - Viktor Dyk - Krysař.md","x":-2550,"y":5500,"width":400,"height":400},
+		{"id":"9e63291e4ff3dde3","type":"file","file":"School/C/Maturitní Četba/knihy/14 - Karel Čapek - R.U.R..md","x":-2550,"y":6060,"width":400,"height":400},
+		{"id":"c3b351b4dd4f728e","type":"file","file":"School/C/Maturitní Četba/knihy/15 - Karel Čapek - Válka s Mloky.md","x":-2070,"y":6060,"width":400,"height":400},
+		{"id":"7a48a7bb3e61d3b9","type":"file","file":"School/C/Maturitní Četba/knihy/17 - Ladislav Fuks - Spalovač mrtvol.md","x":-2550,"y":6620,"width":400,"height":400},
+		{"id":"31c03ae479a68e30","type":"file","file":"School/C/Maturitní Četba/knihy/19 - Petr Šabach - Hovno hoří.md","x":-1430,"y":6620,"width":400,"height":400},
+		{"id":"cd11b59807b4555b","type":"file","file":"School/C/Maturitní Četba/knihy/18 - Ladislav Fuks - Pan Theodor Mundstock.md","x":-2070,"y":6620,"width":400,"height":400},
+		{"id":"27bbc3a9be782c44","type":"file","file":"School/C/Maturitní Četba/knihy/20 - Petr Šabach - Občanský průkaz.md","x":-950,"y":6620,"width":400,"height":400},
+		{"id":"36484a5c495f3610","type":"file","file":"School/C/Maturitní Četba/knihy/11 - George Orwell - Farma zvířat.md","x":-2550,"y":4380,"width":400,"height":400},
+		{"id":"f06da42db69b7be9","type":"file","file":"School/C/Maturitní Četba/knihy/09 - Francis Scott Fitzgerald - Velký Gatsby.md","x":-880,"y":3832,"width":400,"height":400},
+		{"id":"a53b3d8a655b1cd4","type":"file","file":"School/C/Maturitní Četba/knihy/10 - Franz Kafka - Proměna.md","x":-320,"y":3832,"width":400,"height":400}
+	],
+	"edges":[]
+}

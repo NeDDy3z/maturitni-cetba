@@ -25,7 +25,6 @@
 			- *Zkrocení zlé ženy* (komedie)
 			- *Sen noci svatojánské* (komedie)
 			- *Romeo a Julie* (tragédie)
-			- *Hamlet, kralevic dánský* (tragédie)
 			- *Macbeth* (tragédie)
 			- *Hamlet* (tragédie)
 			- *Julius Caesar* (historické drama)
@@ -172,7 +171,7 @@
 2. dějství
 	- Kapuletové ve Veroně pořádají maškarní ples, jehož součástí má být oznámení zasnoubení Julie a Parida
 	- když se o plesu Romeo dozví, rozhodne se ho s Merkuciem a Benvoliem navštívit, pod maskou se na ples dostanou
-	- Juliin bratranec Tybald ovšem Romea pozná podle hlasu, chce vyvolat bitku, aby Romea zostuzil, starý Kapulet, otec Julie, mu to vymluví
+	- Juliin bratranec Tybald ovšem Romea pozná podle hlasu, chce vyvolat bitku, aby Romea zostudil, starý Kapulet, otec Julie, mu to vymluví
 	- Romeo zůstává na plese a spatří Julii, na první pohled propadne do hluboké lásky 
 3. dějství
 	- ples skončí, Romeo a Julie na sebe usilovně myslí
@@ -185,7 +184,7 @@
 	- Romeův přitel Merkucio ovšem nesnese potupu odmítnutého souboje, začne s Tybaltem bojovat, Romeo se snaží konflikt ukončit, ale Merkucio umírá
 	- Romeo je pomstichtivý a zabije Tybalta
 	- za svůj čin je Romeo ušetřen trestu smrti, ale je vyhnán z Verony
-	- další den má Kapulet pro Julii zprýávu, že již zítra bude mít svatbu s Paridem, Julie protestuje ale marně, Kapulet ji nabídne dvě možnosti: buď sňatek s Paridem, nebo ať táhne z jeho domu
+	- další den má Kapulet pro Julii zprávu, že již zítra bude mít svatbu s Paridem, Julie protestuje ale marně, Kapulet ji nabídne dvě možnosti: buď sňatek s Paridem, nebo ať táhne z jeho domu
 	- zoufalá Julie požádá otce Vavřince o pomoc, který ji zajistí nápoj, po kterém bude Julie vypadat jako mrtvá, čímž se znemožní svatba, a Romeo si pro ní přijede a vysvobodí ji z hrobky
 5. dějství
 	- nápoj funguje, Julii uspí, vypadá jako mrtvá
