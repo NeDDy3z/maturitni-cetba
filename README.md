@@ -29,7 +29,7 @@ Díla označená (**D**) jsou dramata, díla označená (**P**) jsou poezie.
 #### Světová literatura 20. a 21. století:
 > *alespoň 4 díla*
 
-6. [x] [Erich Maria Remaruqe - Na západní frontě klid](06%20-%20Erich%20Maria%20Remarque%20-%20Na%20zapadní%20fronte%20klid)
+6. [x] [Erich Maria Remaruqe - Na západní frontě klid](knihy/06%20-%20Erich%20Maria%20Remarque%20-%20Na%20zapadní%20fronte%20klid.md)
 7. [x] [Antoine de Saint-Exupéry - Malý princ](knihy/07%20-%20Antoine%20de%20Saint-Exupéry%20-%20Malý%20princ.md)
 8. [x] [Ernest Hemingway - Stařec a moře](knihy/08%20-%20Ernest%20Hemingway%20-%20Stařec%20a%20moře.md)
 9. [x] [Francis Scott Fitzgerald - Velký Gatsby](knihy/09%20-%20Francis%20Scott%20Fitzgerald%20-%20Velký%20Gatsby.md)
