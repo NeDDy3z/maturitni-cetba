@@ -5,15 +5,6 @@ Study materials for selected literary works, intended to be used for the maturit
 ##### Podmínky:
 - celkem 20 děl
 - splněný minimální počet děl z každého období
-- dvě díla poezie
-- dvě díla próza
-- dvě díla drama
-- maximálně dvě díla od jednoho autora
-## Seznam knih
-Díla označená (**D**) jsou dramata, díla označená (**P**) jsou poezie.
-### Světová a česká literatura do konce 18. století:
-> **alespoň 2 díla**
-##### Renesance:
 - [William Shakespeare - Hamlet](Knihy/William%20Shakespeare%20-%20Hamlet.md) (**D**)
 - [William Shakespeare - Romeo a Julie](Knihy/William%20Shakespeare%20-%20Romeo%20a%20Julie.md) (**D**)
 ### Světová a česká literatura do konce 19. století:
