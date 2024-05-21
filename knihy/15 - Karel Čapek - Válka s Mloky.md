@@ -2,6 +2,7 @@
 - první republika (20. a 30.  léta)
 	- 20. léta: období prosperity a rozvoje společnosti
 	- 30. léta: období hospodářské krize a německého nacionalismu
+- 1929 - hospodářská krize, krach newyorské burzy
 - problematické postavení němců a Katolíků ve společnosti
 - jeden z vrcholů české literatury (prózy i dramatu)
 - **další autoři období:**
@@ -41,10 +42,8 @@
 		- řadíme sem i Ivana Olbrachta
 		- Marie Pujmanová
 		- Marie Majenová
-
 ## Demokratický proud
 - zejména demokratiční novináři, původně povoláním
-
 ## Karel Čapek
 - **1890 - 1938**
 - narodil se v Malých Svatoňovicích, zemřel v Praze na zápal plic
@@ -67,6 +66,7 @@
 - organizoval společné páteční diskuze = "pátečníci"
 	- Karel Čapek, Josef Čapek, T. G. Masaryk, Edvard Beneš, Eduard Bass, Karel Poláček
 - bojoval proti válce a fašismu
+- bydlel v jedné vilce na Praze 10 se svou rodinou i rodinou bratra Josefa
 - vyznával relativismus a pragmatismus
 	- **relativismus** = spektrum názorů, které spojuje, že věci jsou na sobě závislé i v případě, že si to většina lidí nemyslí, postoje tvořené souvislostmi
 	- **pragmatismus** = staví do popředí lidské jednání a praxi, to, co bylo osvědčeno
@@ -88,6 +88,7 @@
 		- *Italské listy* (cestopis)
 		- *Devatero pohádek* (soubor pohádek)
 			- *Velká doktorská pohádka* (pohádka -> Lotrando a Zubejda!!!)
+		- *Dášenka čili život štěněte* (pohádková knížka)
 	4. noetická trilogie
 		- *Hordubal* (novela)
 		- *Povětroň* (novela)
@@ -96,28 +97,23 @@
 		- *Válka s Mloky* (román)
 		- *Bílá nemoc* (drama)
 		- *Matka* (drama)
-
 ## Válka s Mloky (1936)
 - literární druh: **epika**
 - literární žánr: **dystopický román**
 - literární směr/sloh: **antiutopie**
-
-#### Stylistická a jazyková charakteristika
+### Stylistická a jazyková charakteristika
 - dílo je rozdělené na tři části (knihy)
 - dílo je alegorické
 - velká slovní zásoba, rozvinuté věty
 - využití novinových výstřižků, odborné texty, výpisy ze zasedání, popisy událostí souvisejících s Mloky
 - epická část pouze v první knize, málo dialogů, většinu textu tvoří popis
-
-#### Téma díla
+### Téma díla
 - alegorické dílo o šíření rasy prehistorických Mloků, které lidi nejdříve využívají, ale potom s nimi vedou válku
 - dílo je alegorické pro šíření nacismu
-
-#### Časové a prostorové umístění
+### Časové a prostorové umístění
 - z počátku ostrůvky Tichého oceánu, postupně celý svět
 - odehrává se v obrazu meziválečné doby
-
-#### Postavy
+### Postavy
 - **Kapitán Van Toch**
 	- podnikavý a chamtivý kapitán obchodní lodi, objevuje mloky v Tichomoří
 - **G. H. Bondy**
@@ -126,13 +122,12 @@
 	- vůdce Mloků
 - **Mloci**
 	- nepotřebují radost ze života, přátelství nebo lásku, pouze pracují pro svoji společnost (Čapek naráží na podobnost s obyvateli Německa)
-
-#### Stručný děj díla
+### Stručný děj díla
 1. kniha: *Andrias Scheuchzeri*
 	- epická dějová část
 	- objevení mloků kapitánem Van Tochem
 	- zlidštění mloků, jejich přijetí společností
-2. kniha:  *Po stupních civilizace*
+2. kniha: *Po stupních civilizace*
 	- soubor novinových zpráv a výstřižků pana Povondry
 	- vývoj a rozšíření mloků
 	- využití mloků společností

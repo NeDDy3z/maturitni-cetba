@@ -7,13 +7,19 @@
 		- *Vraždy v ulici Morgue* (povídka)
 	- Arthur Conan Doyle
 		- *Sherlock Holmes* (série knih)
-
 ## Agatha Christie
 - **1890 - 1976**
 - vlastním jménem **Agatha Mary Clarissa lady Mallowanová**, rozená **Millerová**
 - občas používala pseudonym **Mary Westmacott**
 - spisovatelka extrémně populární a vlivné detektivní literatury
 - podle některých odhadů je nejprodávanějším spisovatelem všech dob (podle jiných je jim William Shakespeare)
+- narodila se v Anglii do bohaté viktoriánské rodiny, byla vzdělávána rodiči
+- studovala hudbu a francouzštinu v Paříži
+- měla talent pro zpěv a klavír, ostýchala se ale před publikem, a tak kariéru pěvkyně opustila
+- pracovala jako dobrovolná sestra za první i druhé světové války, lékařské zkušenosti byly inspirací pro mnoho děl
+- v roce 1914 se jako důsledek smrti matky a manželské krize nervově zhroutila a na 11 dní zmizela
+- její dílo se drží na velké úrovni popularity díky nadčasovosti, je málo dotčené překonanými dobovými názory a předsudky, velmi přístupné čtenářům
+- její detektivní příběhy byly několikrát adaptovány, nejslavněji v televizním seriálu Hercule Poirot s Davidem Suchetem v hlavní roli 
 - ve svých dílech psala hlavně o dvou fitkivních detektivech
 	- **Hercule Poirot** (**P**)
 		- belgický soukromý detektiv
@@ -31,13 +37,11 @@
 	- *Vražda na faře* (**M**) (román)
 	- *Deset malých černoušků* (román)
 	- *Past na myši* (drama)
-
 ## Deset malých černoušků (1939)
 - literární druh: **epika**
 - literární žánr: **detektivní román**
 - literární směr/sloh: **kriminální fikce 20. století**
-
-#### Stylistická a jazyková charakteristika
+### Stylistická a jazyková charakteristika
 - chronologický děj
 - vypravěč je v er-formě
 - dílo je poutavé a napínavé
@@ -46,16 +50,13 @@
 - symboly - deset malých černoušků reprezentují návštěvníky ostrova
 - úsek s poezií, báseň o černoušcích
 - u líčení vražd se objevují prvky naturalismu
-
-#### Téma díla
+### Téma díla
 - 10 lidí uvíznou na opuštěném ostrově a postupně začnou umírat
 - braní spravedlnosti do vlastních rukou
-
-#### Časové a prostorové umístění
+### Časové a prostorové umístění
 - Černochův ostrov poblíž Devonského pobřeží
 - na konci 30. let 20. století
-
-#### Postavy
+### Postavy
 - **soudce Lawrence Wargrave**
 	- odsoudil nevinného vězně k smrti
 	- na konci je odhaleno, že je vrahem, který vše zkonstruoval
@@ -79,9 +80,8 @@
 	- sluha na Černochově ostrově, společně se svou ženou nepodali nemocné ženě, u které pracovali, léky, a ta zamřela
 - **Ethel Rodgersová**
 	- služka na Černochově ostrově, žena Thomase Rodgerse
-
-#### Stručný děj díla
-- 10 lidí se setkají na Černochově ostrově
+### Stručný děj díla
+- 10 lidí se setká na Černochově ostrově
 - byli pozváni různými způsoby, někomu přišel dopis od vzdáleného přítele či bývalé manželky, někomu telegram, atp.
 - po přijetí na ostrov zjišťují, že důvody pozvání byly vymyšlené, a že jsou na ostrově izolování
 - sluha Thomas Rodgers pustí gramofonovou desku, která všechny návštěvníky ostrova osočí ze zločinů
@@ -91,8 +91,7 @@
 - prohledají ostrov s motivací najít vraha, ale nikoho nenajdou, a tak jim dojde, že vrahem musí být někdo z nich
 - na konec všichni zemřou, až zbyde jen Vera Claythornová, která se sama oběsí
 - kniha končí dopisem od vraha soudce Lawrence Wargrava, který se ke všemu přizná
-
-#### Doplňující informace
+### Doplňující informace
 - Deset malých černoušků je nejprodávanějším detektivním románem všech dob
 - kontroverzní je název knihy, který obsahuje rasistický pojem
 	- kniha původně vyšla v anglii pod názvem *Ten Little Niggers*, v Americe byl ale pro nevhodnost název změněn, takže když kniha o rok později vyšla, jmenovala se *And Then There Were None*

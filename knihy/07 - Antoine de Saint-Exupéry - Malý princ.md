@@ -1,10 +1,9 @@
-
-## Meziválečná literatura 
+## Meziválečná světová literatura 
 - neklidné příměří v Evropě
 - světová hospodářská krize (1929)
 - literatura ovlivněna vzestupem nacionalismu, fašismu a bolševismu
 - technologický pokrok
-- **další autoři období:**
+- **autoři období:**
 	- ztracená generace
 		- Ernest Hemingway
 			- *Stařec a moře* (novela)
@@ -18,10 +17,19 @@
 		- John Steinbeck
 			- *O myších a lidech* (novela)
 			- *Hrozny hněvu* (novela)
+		- Erich Maria Remarque 
+			- *Na západní frontě klid* (román)
+			- *Tři kamarádi* (román)
+	- meditativní a filozofická próza
+		- Antoine de Saint-Exupéry
+			- *Malý princ* (pohádka)
+			- *Noční let* (román)
+			- *Citadela* (román)
 	- experimentální próza
 		- Franz Kafka
 			- *Proměna* (povídka)
 			- *Proces* (román)
+			- *Zámek* (román)
 		- James Joyce
 			- *Oddysseus* (román) 
 	- drama
@@ -32,45 +40,47 @@
 			- *Mistr a Markétka* (román)
 		- Thomas Mann
 			- *Smrt v Benátkách* (novela)
-
 ## Antoine de Saint-Exupéry
 - **1900 - 1944**
 - francouzský spisovatel, reportér, letec
-- psal meditativní a filozofickou prózu
+- narodil se v Lyoně, aristokratického původu
+- studoval ve Švýcarsku a Paříži
+- již v dětství psal básně, byl fascinován letectvím
+- v roce 1921 nasoupil do vojenské služby, získal leteckou způsobilost, od té doby se letectví věnoval celý život
+- sestřelen za druhé světové války při průzkumném letu nad středozemním mořem
+- psal meditativní a filozofickou prózu a prózu s leteckou tématikou
 - průkopník dálkových letů
-- aristokratického původu
-- sestřelen při průzkumném letu nad středozemním mořem
 - **další dílo:**
 	- *Noční let*
 		- román o leteckém kurýrovi
 		- autobiografické jevy
 	- *Citadela*
 		- meditativní román, nedokončený
-
+	- *Válečný pilot*
+		- prózy na pomezí reportáže a dokumentu
+		- z osobních reálných zážitků, mnohdy ze situací bezprostředního ohrožení života
+		- filozofické pasáže o smyslu života
 ## Malý princ (1943)
 - literární druh: **epika**
 - literární žánr: **filozofická pohádka**
 - literární směr/sloh: **meziválečná mediativní a filozofická próza**
-
-#### Stylistická a jazyková charakteristika
+### Stylistická a jazyková charakteristika
 - fiktivní autobiografie
 - spisovný, na dobu aktuální jazyk
 - expresivní výrazy (zdrobněliny)
 - přirovnání, metafory, personifikace
-
-#### Téma díla
+- dílo na začátku a konci v ich-formě, popis činů malého prince v er-formě
+### Téma díla
 - střet světa dětí a dospělých
 - přátelství, vztahy, zodpovědnost, nevinnost dětí
 - poukázání na nesmyslnost chování a cílů dospělých
-
-#### Časové a prostorové umístění
+### Časové a prostorové umístění
 - odehrává se během osmi dní, doba není určena
 	- pravděpodobně někdy v 19. století
 - na různých planetkách, ve vesmíru
 	- na planetě malého prince B612
 	- na Zemi
-
-#### Postavy
+### Postavy
 - **Malý princ**
 	- hlavní postava
 	- dětský, zvědavý, ptá se na otázky, nevinný, citlivý
@@ -102,8 +112,7 @@
 	- pije, aby zapomněl, že pije
 - **Byznysman**
 	- počítá hvězdy, myslí si, že jsou jeho
-
-#### Stručný děj díla
+### Stručný děj díla
 - Pilotovo letadlo má poruchu, musí nouzově přistát v poušti
 - Setkává se s Malým princem
 - Princ chce, aby mu pilot nakreslil beránka. Pilot mu nakreslí bedničku a princ je šťastný, protože si představuje, že je beránek uvnitř

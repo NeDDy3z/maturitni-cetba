@@ -1,20 +1,64 @@
+##   Meziválečná světová literatura
+
+- neklidné příměří v Evropě
+- světová hospodářská krize (1929)
+- literatura ovlivněna vzestupem nacionalismu, fašismu a bolševismu
+- technologický pokrok
+- **další autoři období:**
+    - ztracená generace
+        - Ernest Hemingway
+            - _Stařec a moře_ (novela)
+            - _Sbohem armádo_ (román)
+            - _Zelené pahorky africké_ (román)
+            - _Komu zvoní hrana_ (román)
+            - _Vojákův návrat_ (povídka)
+        - Francis Scott Fidzgerald
+            - _Velký Gatsby_ (román)
+            - _Něžná je noc_ (román)
+        - John Steinbeck
+            - _O myších a lidech_ (novela)
+            - _Hrozny hněvu_ (novela)
+        - Erich Maria Remarque
+            - _Na západní frontě klid_ (román)
+            - _Tři kamarádi_ (román)
+    - meditativní a filozofická próza
+        - Antoine de Saint-Exupéry
+            - _Malý princ_ (pohádka)
+            - _Noční let_ (román)
+            - _Citadela_ (román)
+    - experimentální próza
+        - Franz Kafka
+            - _Proměna_ (povídka)
+            - _Proces_ (román)
+        - James Joyce
+            - _Oddysseus_ (román)
+    - drama
+        - George Bernard Shaw
+            - _Pygmalion_ (satirická sociální komedie)
+    - další
+        - Michail Bulkagov
+            - _Mistr a Markétka_ (román)
+        - Thomas Mann
+            - _Smrt v Benátkách_ (novela)
+
 ## Ztracená generace
-- *lost generation*
+
+- _lost generation_
 - skupina amerických spisovatelů jedné generace
-	- narozeni okolo roku 1900
+    - narozeni okolo roku 1900
 - tvořili ve 20. letech 20. století
 - byli významně duševně poznamenáni a otřeseni 1. sv. v.
 - vystřízlivění k americkému snu
 - témata zklamání a skepse
 - hrdinové jsou ztracení jednotlivci, nemají zakotvení
-	- utíkají do přírody, ke kultuře, uzavírají se do sebe
-	- neschopnost navázat na předchozí život
-	- neoslovují je tradiční hodnoty
+    - utíkají do přírody, ke kultuře, uzavírají se do sebe
+    - neschopnost navázat na předchozí život
+    - neoslovují je tradiční hodnoty
 - pojem "ztracená generace" vymyslela Gertruda Steinová, majitelka salonu v Paříži
 - **další autoři:**
-	- Erich Maria Remarqu
-	- Ernest Hemingway
-	- John Steinbeck
+    - Erich Maria Remarque
+    - Francis Scott Fidzgerald
+    - John Steinbeck
 
 ## Francis Scott Fitzgerald
 - **1896 - 1940**

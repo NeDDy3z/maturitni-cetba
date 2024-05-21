@@ -1,10 +1,10 @@
-## Literatura po 2. světové válce
+## Světová literatura po 2. světové válce
 - svět je rozdělený na východ a západ
 - Berlín, železná opona
 - NATO, Varšavská smlouva
 - studená válka, závod ve zbrojení
 - **na východě** socialistický realismus:
-	- ineditní literatura, psaná do šuplíku či vydávana samizdatem
+	- ineditní literatura, psaná do šuplíku či vydávána samizdatem
 	- exilová literatura
 - **na západě** svobodná literatura:
 	- bohatost směrů, stylů, žánrů
@@ -33,8 +33,8 @@
 		- Friedrich Dürrenmat
 			- *Fyzikové* (drama)
 			- *Návštěva staré dámy* (drama)
-		- Tenessee Williams
-			- *Tramvaj do stanice touhla* (drama)
+		- Tennessee Williams
+			- *Tramvaj do stanice touha* (drama)
 			- *Kočka na rozpálené plechové střeše* (drama)
 	- beat generation
 		- Jack Kerouac
@@ -54,6 +54,11 @@
 		- Gabriel José García Márquez
 			- *Sto roků samoty* (román)
 	- sci-fi
+		- George Orwell
+			- *1984* (román)
+			- *Farma zvířat* (román)
+			- *Na dně v Paříži a Londýně* (román)
+			- *Hold katalánsku* (reportáž)
 		- John Wyndham
 			- *Den trifidů* (román)
 		- Ray Bradbury
@@ -69,43 +74,45 @@
 		- Alexandr Solženicin
 			- *Souostroví Gulag* (román)
 			- *Jeden den Ivana Děnisoviče* (novela)
-
 ## George Orwell
 - **1903 - 1950**
 - vlastním jménem **Eric Arthur Blair**
 - anglický spisovatel, jeden z nejvýznamnějších autorů 20. století
-- zkušenost z války a ze života ho vedly k socialistickým postojům
-- narodil se v Indii v rodině učedníka
-- v dospělosti se vrátil do východní Asie
+- narodil se v Indii v rodině úředníka
+- vyrůstal v Anglii v Oxfordshiru, zvolil si pseudonym podle místní říčky Orwell
+- začal pracovat pro Indickou imperiální policii na dnešním území Barmy, zde vznikla jeho nenávist k imperialismu a příklon k levicové politice
+- vrátil se do Anglie, psal eseje, pracoval jako novinář
+- žil jako tulák, pohyboval se mezi spodinou společnosti, stal se z něho socialista, antifašita, kritik všech nedemokratických politických systémů
+- byl dobrovolníkem ve španělské občanské válce, byl zraněn
+- zemřel na tuberkulózu v roce 1949, rok po vydání svého nejúspěšnějšího románu
 - **témata díla:**
 	- kritika totalitních režimů (komunismus, fašismus)
-- **další dílo:**
+- **dílo:**
 	- romány
 		- *1984*
 		- *Na dně v Paříži  a Londýně*
-
+		- *Farma zvířat*
+	- reportáž
+		- *Hold katalánsku*
 ## Farma zvířat (1945)
 - literární druh: **epika**
 - literární žánr: **román, alegorická bajka**
 - literární směr/sloh: **antiutopie**
-
-#### Stylistická a jazyková charakteristika
+### Stylistická a jazyková charakteristika
+- v er-formě
 - text je alegorický
 - spisovný
 - slova se socialistickým zabarvením (Liga mládeže, sportovní výbor)
 - odborné termíny, metafory, archaismy, personifikace
 - přímá i nepřímá řeč
 - vypravěcí a popisný slohový postup
-
-#### Téma díla
+### Téma díla
 - kritika totalitních režimů, SSSR pomocí alegorie
 - dobrá myšlenka je zničena po tom, co se skupina dostane k moci
-
-#### Časové a prostorové umístění
+### Časové a prostorové umístění
 - v 50. letech 20. století
 - v Anglii na venkově, na farmě pana Jonese
-
-#### Postavy
+### Postavy
 - **pan Jones**
 	- alkoholik, majitel Panské farmy
 	- o zvířata se stará velice špatně
@@ -138,8 +145,7 @@
 - **lidé**
 	- znázorňují kapitalisty, vykořisťovatele
 - **slepice**
-
-#### Stručný děj díla
+### Stručný děj díla
 - děj se odehrává na farmě, kterou vlastní pan Jones, který je alkoholik a o zvířata se nestará dobře - trpí hladem a zimou
 - staré prase Major svolá všechna zvířata do stodoly, kde je před svou smrtí vyburcuje k revoluci
 - zvířata pana Jonese vyženou a přejmenují původní "Panskou farmu" na "Zvířecí farmu"
@@ -152,8 +158,7 @@
 - Napoleon vychová další prasata, společně začnou hrát karty, chodit po dvou
 - farmu přejmenují zpět na Panskou
 - jsou k nerozeznání od lidí
-
-#### Doplňující informace
+### Doplňující informace
 - **7 přikázání:**
 	1. Každý, kdo chodí po dvou nohách, je nepřítel
 	2. Každý, kdo chodí po čtyřech nohách nebo má křídla, je přítel

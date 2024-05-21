@@ -44,21 +44,23 @@
 			- *Pouť krkonošská* (báseň v próze)
 			- *Cikáni* (román)
 			- *Máj* (lyricko-epická básnická skladba)
-
 ## Edgar Allan Poe
 - **1809 - 1849**
 - američan
 - básník, prozaik, literární teoretik, esejista
-- předchůdce detektivních románů a moderních hororů
+- předchůdce detektivních románů a moderních hororů; je považován za zakladatele detektivní literatury
 - zakladatel americké novely
 - inspiroval prokleté básníky
 - **život:**
-	- ve dvou letech ztratil rodiče, vychovával ho příbuzný
-	- kariéra u vojska, byl vyhozen
+	- jeho matka mu zemřela v dětství a otec byl alkoholik, tak se ho ujala adoptivní rodina
+	- poskytla mu vzdělání v USA, Anglii a Skotsku
+	- začal hrát hazardní hry, zadlužil se, byl vyloučený z akademie a svou adoptivní rodinu opustil
+	- pokoušel se o kariéru u vojska, ale byl vyloučen
 	- ve 26 letech se přestěhoval ke své tetě, kde se oženil se svojí 13 letou sestřenicí Virginií
-	- Virginia zemřela, jako důsledek začal pít, pokusil se o sebevraždu
+	- Virginia zemřela, jako důsledek začal pít, propadl depresi a duševním nemocem, pokusil se o sebevraždu
 	- po rvačce v hospodě zemřel
-- **další dílo:**
+	- jeho pohřbu se zúčastnili pouze čtyři lidé
+- **dílo:**
 	- povídky
 		- *Vraždy v ulici Morgue*
 		- *Jáma a kyvadlo*
@@ -66,14 +68,12 @@
 		- *Havran a další básně*
 - **spojení autoři**
 	- Arthur Conan Doyle
-	- H. P. Lovecraft
-
+	- Howard Phillips Lovecraft
 ## Havran (1845)
 - literární druh: **lyricko-epická skladba**
 - literární žánr: **temná romantická poezie**
 - směr/sloh: **romantismus**
-
-#### Stylistická a jazyková charakteristika
+### Stylistická a jazyková charakteristika
 - **kompozice:**
 	- chronologická
 	- 18 slok
@@ -89,23 +89,19 @@
 - zvukomalebnost (*never more*)
 - psáno racionální metodou
 	- chtěl vzbudit ve čtenáři pocit depresi, gradace beznaděje
-
-#### Téma díla
+### Téma díla
 - beznaděj hrdiny (lyrického subjektu)
 - ztráta mrtvé lásky
 - propad do beznaděje
 - tajemno noční bouře
-
-#### Časové a prostorové umístění
+### Časové a prostorové umístění
 - v bytě lyrického subjektu
 - v noci za bouře
-
-#### Postavy
+### Postavy
 - **vypravěč/lyrický subjekt**
 - **Lenora**
 - **havran**
-
-#### Stručný děj díla
+### Stručný děj díla
 - mladému muži předčasně zemřela dívka Lenora
 - za jedné bouřlivé noci si zmýtaný horečkou čte staré magické knihy a myslí na ni
 - zdá se mu, že někdo klepe na dveře, jde otevřít, ale venku nikdo není
@@ -114,8 +110,7 @@
 - ptá se ho, zda se ještě někdy potká s Lenorou, Havran mu odpovídá *"už víckrát ne"* (*"never more"*)
 - muž se havrana snaží vyhnat z domu, ale havran neopouští své místo
 - muž pomalu upadá do úplného zoufalství
-
-#### Doplňující informace
+### Doplňující informace
 - dílo původně překládáno jako Krkavec
 - bylo úspěšné hned po vydání
 - dílo napsal ke konci života, dva roky před smrtí Virginie, byla již tři roky nemocná s tuberkulózou a Poe byl v depresích

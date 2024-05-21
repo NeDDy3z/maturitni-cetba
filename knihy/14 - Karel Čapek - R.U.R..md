@@ -2,6 +2,7 @@
 - první republika (20. a 30.  léta)
 	- 20. léta: období prosperity a rozvoje společnosti
 	- 30. léta: období hospodářské krize a německého nacionalismu
+- 1929 - hospodářská krize, krach newyorské burzy
 - problematické postavení němců a Katolíků ve společnosti
 - jeden z vrcholů české literatury (prózy i dramatu)
 - **další autoři období:**
@@ -41,10 +42,8 @@
 		- řadíme sem i Ivana Olbrachta
 		- Marie Pujmanová
 		- Marie Majenová
-
 ## Demokratický proud
 - zejména demokratiční novináři, původně povoláním
-
 ## Karel Čapek
 - **1890 - 1938**
 - narodil se v Malých Svatoňovicích, zemřel v Praze na zápal plic
@@ -67,6 +66,7 @@
 - organizoval společné páteční diskuze = "pátečníci"
 	- Karel Čapek, Josef Čapek, T. G. Masaryk, Edvard Beneš, Eduard Bass, Karel Poláček
 - bojoval proti válce a fašismu
+- bydlel v jedné vilce na Praze 10 se svou rodinou i rodinou bratra Josefa
 - vyznával relativismus a pragmatismus
 	- **relativismus** = spektrum názorů, které spojuje, že věci jsou na sobě závislé i v případě, že si to většina lidí nemyslí, postoje tvořené souvislostmi
 	- **pragmatismus** = staví do popředí lidské jednání a praxi, to, co bylo osvědčeno
@@ -88,6 +88,7 @@
 		- *Italské listy* (cestopis)
 		- *Devatero pohádek* (soubor pohádek)
 			- *Velká doktorská pohádka* (pohádka -> Lotrando a Zubejda!!!)
+		- *Dášenka čili život štěněte* (pohádková knížka)
 	4. noetická trilogie
 		- *Hordubal* (novela)
 		- *Povětroň* (novela)
@@ -96,13 +97,11 @@
 		- *Válka s Mloky* (román)
 		- *Bílá nemoc* (drama)
 		- *Matka* (drama)
-
 ## R.U.R./Rossum's Universal Robots (1920)
 - literární druh: **drama**
 - literární žánr: **dystopická, vědecko-fantastická tragédie**
 - literární směr/sloh: **sci-fi, dystopie**
-
-#### Stylistická a jazyková charakteristika
+### Stylistická a jazyková charakteristika
 - chronologická kompozice; předehra a tři dějství
 	**- předehra:** poměrně dlouhá, uvádí diváka do děje
 	**1. dějství:** o deset let později, v salonu na Rossumově ostrově, postavy si uvědomují negativní dopad robotů
@@ -119,19 +118,16 @@
 - **utopie:**
 	- fiktivní společnost, která je ideální a dokonalá ve všech aspektech
 	- ukazuje ráj
-
-#### Téma díla
+### Téma díla
 - strach o osud lidí
 - hrozba nadvlády umělé inteligence
 - následky sestrojení robotů
 - varování před následky techniky
 - kritika touhy zbohatnout a zpohodlnět
-
-#### Časové a prostorové umístění
+### Časové a prostorové umístění
 - doba děje není známá
 - Rossumův ostrov, budova továrny
-
-#### Postavy
+### Postavy
 - **Harry Domin**
 	- ředitel R.U.R., má cíl ulehčit lidem práci, ctižádostivý a sebevědomý
 - **Helena Gloryová**
@@ -150,8 +146,7 @@
 	- generální technický ředitel
 - **Nána**
 	- chůva Heleny, nevěří v pokrok a věří v boha
-
-#### Stručný děj díla
+### Stručný děj díla
 - **předehra**
 	- v budoucnosti na Rossumově ostrově, vynaleznou a začnout vyrábět roboty
 	- roboti jsou lidmi využíváni jako levná a efektivní pracovní síla

@@ -73,7 +73,6 @@
 		- *Občanský průkaz* (sbírka povídek)
 	- Michal Viewegh
 		- *Báječná léta pod psa* (román)
-
 ## Petr Šabach
 - **1951 - 2017**
 - psal humoristické romány a povídky
@@ -104,13 +103,11 @@
 	- *Občanský průkaz*
 		- normalizace, 70. a 80. léta
 		- zfilmováno ve stejnojmeném filmu
-
 ## Hovno hoří (1994)
 - literární druh: **epika**
 - literární žánr: **sbírka povídek**
 - literární směr/sloh: **současná česká literatura**
-
-#### Stylistická a jazyková charakteristika
+### Stylistická a jazyková charakteristika
 - kniha se skládá ze tří povídek s různými styly vyprávění
 	- *Sázka* - ich-forma (muž, pozorovatel)
 	- *Bellevue* - er-forma
@@ -119,13 +116,11 @@
 - současný jazyk
 - ustálená slovní spojení, nářečí, řečnické otázky, spisovný i nespisovný jazyk, hovorové výrazy, vulgární výrazy, knižní výrazy, cizí a přejaté výrazy
 - ironie, sarkasmus, humor
-
-#### Téma díla
+### Téma díla
 - rozdíly mezi ženami a muži
 - fascinace vztahem žen a mužů, zobrazení s laskavým humorem
 - život lidí v období socialismu
-
-#### Časové a prostorové umístění
+### Časové a prostorové umístění
 - všechny povídky se odehrávají v 60. - 70. letech
 - *Sázka*
 	- v hospodě
@@ -133,8 +128,7 @@
 	- na rodinném statku
 - *Voda se šťávou*
 	- zřejmě v Praze
-
-#### Postavy
+### Postavy
 - **Petr**
 	- hlavní postava, autobiografická
 	- dospívá v muže, vzpírá se otci, líbí se mu ženy
@@ -153,8 +147,7 @@
 	- krásná dívka, líbí se mužům
 	- nemůže najít toho pravého, až objeví Petra
 	- později starostlivá žena a matka
-
-#### Stručný děj díla
+### Stručný děj díla
 - povídka *Sázka*
 	- autor vypráví o tom, jak jednou seděl v hospůdce a pozoroval dva starší muže, jak se navzájem hecují
 	- přou se, zda medvěd Kodiak může měřit tři metry

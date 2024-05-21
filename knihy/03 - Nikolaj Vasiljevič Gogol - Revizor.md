@@ -9,7 +9,7 @@
 	- člověk je determinován dědičností a prostředím, ve kterém existuje
 	- jeho charakter je ovládán jeho instinkty a pudy
 	- obsahuje drastické a odpuzující scény
-- **další autoři období:**
+- **autoři období:**
 	- anglický realismus
 		- Charles Dickens
 			- *Oliver Twist* (román)
@@ -49,20 +49,19 @@
 	- norský realismus
 		- Henrik Ibsen
 			- *Domeček pro panenky* / *Nora* (drama)
-
-#### Ruský realismus
+### Ruský realismus
 - carské Rusko v 19. století zaostalo
 - literatura suplovala jiné obory (filozofie, vědu, publicistiku)
 - v literatuře filozofická hloubka
 - naléhavost, síla umělecké analýzy soudobého člověka, hlubší kritika
 - zobrazuje a analyzuje společnost, pravdivě a objektivně
-
 ## Nikolaj Vasiljevič Gogol
 - **1809 - 1852**
 - ukrajinského původu
 - vyrostl v rodině sedláka
-- vystudoval historii v Petrohradě
-- byl publicista, dramatik a prozaik
+- vystudoval historii v Petrohradě, pracoval jako úředník
+- psal do novin
+- byl dramatik, prozaik
 - v závěru života příklon k mysticismu, samoděržaví, deprese
 	- samoděržaví = *forma absolutistické monarchistické vlády v Rusku, při níž je nejvyšší moc soustředěna do rukou cara, jehož vůle je zákonem*
 - spálil své dílo *Mrtvé duše 2*
@@ -72,32 +71,27 @@
 	- divadelní hry
 		- *Ženitba*
 		- *Hráči*
-
 ## Revizor (1836)
 - literární druh: **drama** (divadelní hra)
 - literární žánr: **satirická komedie**
 - literární směr/sloh: **ruský realismus**
-
-#### Stylistická a jazyková charakteristika
+### Stylistická a jazyková charakteristika
 - dílo je rozděleno do pěti dějství (aktů)
 - dialogy, přímá řeč
 - spisovný jazyk s hovorovými prvky
 - scénické poznámky
 - termíny, oslovení, metafora, přirovnání
-
-#### Téma díla
+### Téma díla
 - kritika společnosti (úplatkářství, byrokratismus)
 - charaktery lidí ovlivněné penězi a mocí
 - motiv záměny
 - hlavním tématem je příjezd revizora z Petrohradu
 - nevzdělanost, tupost a zkaženost úředníků
-
-#### Časové a prostorové umístění
+### Časové a prostorové umístění
 - malé ruské městečko
 - počátek 30. let 19. století, za vlády Mikuláše I.
 - odehrává se během 24 hodin
-
-#### Postavy
+### Postavy
 - **Ivan Alexandrovič Chlestakov**
 	- hlavní postava
 	- bezvýznamný úředník, nemá peníze
@@ -114,8 +108,7 @@
 	- sluha Chlestakova, rád káže mravy, chytrý
 - **Marja Antonovna**
 	- dcera hejtmana, Chlestakov ji požádá o ruku
-
-#### Stručný děj díla
+### Stručný děj díla
 - Chlestakov se svým sluhou Osipem přijíždí do městečka
 - ubytuje se v hostinci na dluh a v kartách prohraje všechny peníze
 - díky poštmistrovi, co rád otevírá a čte dopisy, se všichni úřadníci z města dozvědí, že přijede, nebo už přijel, revizor

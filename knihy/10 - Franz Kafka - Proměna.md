@@ -1,9 +1,9 @@
-## Meziválečná literatura 
+## Meziválečná světová literatura 
 - neklidné příměří v Evropě
 - světová hospodářská krize (1929)
 - literatura ovlivněna vzestupem nacionalismu, fašismu a bolševismu
 - technologický pokrok
-- **další autoři období:**
+- **autoři období:**
 	- ztracená generace
 		- Ernest Hemingway
 			- *Stařec a moře* (novela)
@@ -17,14 +17,20 @@
 		- John Steinbeck
 			- *O myších a lidech* (novela)
 			- *Hrozny hněvu* (novela)
+		- Erich Maria Remarque 
+			- *Na západní frontě klid* (román)
+			- *Tři kamarádi* (román)
 	- meditativní a filozofická próza
 		- Antoine de Saint-Exupéry
 			- *Malý princ* (pohádka)
 			- *Noční let* (román)
 			- *Citadela* (román)
 	- experimentální próza
+		- Franz Kafka
+			- *Proměna* (povídka)
+			- *Proces* (román)
 		- James Joyce
-			- *Oddysseus* (román) 
+			- *Odysseus* (román) 
 	- drama
 		- George Bernard Shaw
 			- *Pygmalion* (satirická sociální komedie)
@@ -33,22 +39,21 @@
 			- *Mistr a Markétka* (román)
 		- Thomas Mann
 			- *Smrt v Benátkách* (novela)
-
-
 ## Experimentální modernistická próza
 - základem tvorby je experiment
 - děj je upozadněn, není podstatný
 - důraz na subjektivní prožitek postav
-	- zachycení vnitřního proudu vědomí
+- zachycení vnitřního proudu vědomí
 - konfrontace vnitřního a vnějšího světa
 - absurdita světa, života
 - osamocenost jedince, znejištění smyslu existence
-
-
 ## Franz Kafka
 - **1883 - 1924**
 - pražský německý žid, psal v němčině
 - *kafkovský* = fantaskní absurdní svět bez východiska, nejistota, absence smyslu
+- byl celoživotně ovlivněný komplikovaným vztahem s přísným otcem
+- měl komplikované vztahy se ženami, byl ostýchavý
+- vystudovaný právník, pracoval jako úředník v pojišťovně
 - 90% díla nikdy nedokončil a nevydal, mnoho textů spálil, chtěl, aby po jeho smrti bylo spáleno vše
 - jeho přítel **Max Brod** toto rozhodnutí nerespektoval a vydal mnoho Kafkových děl, včetně soukromých deníků a korespondence
 	- korespondence s Miladou Jesenskou, první překladatelkou Kafkova díla do češtiny
@@ -70,34 +75,24 @@
 - **další pražští německy píšící autoři:**
 	- **Max Brod**
 	- **Gustav Meyrink**
-
-
 ## Proměna (1915)
 - literární druh: **epika**
 - literární žánr: **povídka**
 - literární směr/sloh: **existencialismus**
-
-
-#### Stylistická a jazyková charakteristika
+### Stylistická a jazyková charakteristika
 - vypravěč chladný, strohý, bez emocí
 - neosobní er-forma
 - nahlížení na postavy z vnější perspektivy
 - spisovný jazyk, neutrální slova, přechodníky
 - chronologická kompozice, rozděleno do tří kapitol
 - vulgarismy, hyperboly, eufemismy
-
-
-#### Téma díla
+### Téma díla
 - přeměna na brouka
 - vůle, beznaděj, odcizení, samota, psychické vyčerpání, smrt
-
-
-#### Časové a prostorové umístění
+### Časové a prostorové umístění
 - v bytě rodiny
 - v rozsahu jen pár dní
-
-
-#### Postavy
+### Postavy
 - **Řehoř Samsa**
 	- hlavní postava, obchodní cestující
 	- pečlivý, odpovědný, svědomitý, úzkostný
@@ -120,9 +115,7 @@
 	- vidí proměnu a odchází
 - **Pronajímatelé pokoje**
 	- tři muži, co si pronajmou pokoj v bytě rodiny
-
-
-#### Stručný děj díla
+### Stručný děj díla
 - Řehoř Samsa je obchodní cestující, puntičkářsky svědomitý a má malou sebedůvěru, stará se o svou rodinu
 - jednoho dne ráno se vzbudí a zjistí, že se přes noc proměnil na brouka
 - není z proměny vyděšený, má obavy, že nepřijde včas do práce
