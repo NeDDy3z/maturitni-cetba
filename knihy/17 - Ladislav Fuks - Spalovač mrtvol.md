@@ -73,7 +73,6 @@
 		- *Občanský průkaz* (sbírka povídek)
 	- Michal Viewegh
 		- *Báječná léta pod psa* (román)
-
 ## Ladislav Fuks
 - **1923 - 1994**
 - narozen v Praze
@@ -86,27 +85,22 @@
 - v době normalizace (70. léta) se přizpůsobil, psal zejména historická díla na objednávku
 - **další dílo:**
 	- *Pan Theodor Mundstock* (román)
-
 ## Spalovač mrtvol (1967)
 - literární druh: **epika**
 - literární žánr: **psychologická novela**
 - literární směr/sloh: **druhá vlna válečné prózy**
-
-#### Stylistická a jazyková charakteristika
+### Stylistická a jazyková charakteristika
 - spisovný, hovorový, neutrální jazyk
 - v díle se objevují německé výrazy
 - vypravěc v er-formě
 - specifické pro dílo jsou monology pana Kopfrkingla, za celou dobu zřídka promluví kdokoliv jiný, než on
-
-#### Téma díla
+### Téma díla
 - destrukce člověka pod vlivem totalitní moci
 - druhá světová válka, holokaust, nacismus
-
-#### Časové a prostorové umístění
+### Časové a prostorové umístění
 - v Praze
 - před druhou světovou válkou
-
-#### Postavy
+### Postavy
 - **Karel Kopfrkingl**
 	- zaměstnanec krematoria
 	- nejdříve dobrý otec, miluje svou rodinu, má rád umění, vyznává buddhismus, nenásilný milý člověk
@@ -125,8 +119,7 @@
 	- 14-letý syn
 - **Wilém Reinke**
 	- přítel pana Kopfrkingla, nacista, převede ho do strany
-
-#### Stručný děj díla
+### Stručný děj díla
 - Karel Kopfrkingl je zaměstnanec krematoria, fascinovaný smrtí, má k ní až pozitivní názor
 - má rodinu, dvě děti, neskonale je miluje, je milý, vlídný, vzdělaný
 - s růstem nacismu se k němu přiklání, stýká se svým přítelem Wilhelmem Reinkem, začne souhlasit s nacistickou ideologií
@@ -136,6 +129,5 @@
 - než stihne zabít i dceru Zinu, zešílí úplně, má vidiny ve kterých se dozví že je další Dalajláma
 - muži v bílém, které považuje za anděly, ho odvezou do ústavu pro duševně choré
 - v roce 1945 se vrací domů, vidí zástup židů, které se vrací z koncentračního tábora, považuje je za lidi, které rovněž spasil, kniha končí slovy *“Šťastné to lidstvo, spasil jsem je…“*
-
-#### Doplňující informace
+### Doplňující informace
 - kniha má výborné filmové zpracování, má jiný konec

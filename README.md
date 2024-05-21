@@ -45,6 +45,6 @@ Díla označená (**D**) jsou dramata, díla označená (**P**) jsou poezie.
 15. [ ] [Karel Čapek - Válka s Mloky](knihy/15%20-%20Karel%20Čapek%20-%20Válka%20s%20Mloky.md)
 16. [ ] Karel Poláček - Bylo nás pět
 17. [ ] [Ladislav Fuks - Spalovač mrtvol](knihy/17%20-%20Ladislav%20Fuks%20-%20Spalovač%20mrtvol.md)
-18. [ ] [Ladislav Fuks - Pan Theodor Mundstock](knihy/18%20-%20Ladislav%20Fuks%20-%20Pan%20Theodor%20Mundstock.md)
+18. [ ] [Ladislav Fuks - Pan Theodor Mundstock](18%20-%20Ladislav%20Fuks%20-%20Pan%20Theodor%20Mundstock.md)
 19. [ ] [Petr Šabach - Hovno hoří](knihy/19%20-%20Petr%20Šabach%20-%20Hovno%20hoří.md)
 20. [ ] [Petr Šabach - Občanský průkaz](knihy/20%20-%20Petr%20Šabach%20-%20Občanský%20průkaz.md)
